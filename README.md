@@ -1,6 +1,5 @@
 
-![{A9E71ED8-3280-4D50-8687-8F887ECB8680}](https://github.com/user-attachments/assets/ce3214a5-6771-4029-9193-0b6116ac66b2)
-
+![{89228400-AB08-4962-B445-921484507A88}](https://github.com/user-attachments/assets/69f22630-db10-4c47-bf1d-cfcbd82818ed)
 
 ## BRich AI Forex Simulator!
 
@@ -71,30 +70,30 @@ requirements.txt content
  openpyxl
 
 
-How to Run
+**How to Run**
 
 There are two primary ways to run the project for evaluation
 
- A) Run Simulation with Pre-trained Model This uses the included best-model.ckpt to generate the latest results.
+ * A) Run Simulation with Pre-trained Model This uses the included best-model.ckpt to generate the latest results.
 
- B) Run in TA Evaluation Mode (with external Excel files) Place the TA-provided fx_data.xlsx and fake_fx_data.xlsx in the project's root folder. The script will automatically detect them and run in TA mode.
+ * B) Run in TA Evaluation Mode (with external Excel files) Place the TA-provided fx_data.xlsx and fake_fx_data.xlsx in the project's root folder. The script will automatically detect them and run in TA mode.
 
- (Optional) Re-train the AI Model To train the model from scratch, run the training script. This will overwrite the existing best-model.ckpt.
+ * (Optional) Re-train the AI Model To train the model from scratch, run the training script. This will overwrite the existing best-model.ckpt.
 
 
 
 4. Key Output Files for GUI & Evaluation
 All results are saved in the BRich_Training_outputs directory. The most important files for the GUI team and the TA are
 
- simulation_details.json
+simulation_details.json
 Content The core data file. Contains a detailed log for each day of the simulation, including date, symbol, prices, action taken, and PnL.
 Usage The primary data source for populating the GUI's main trading log table.
 
- equity_curve.json
+equity_curve.json
 Content Daily timeseries data of the total account equity.
 Usage For drawing an interactive equity curve chart in the GUI.
 
- Image Files (.png)
+Image Files (.png)
 equity_curve.png A static chart showing the overall profitloss over time.
 trading_simulation_analysis.png Detailed charts showing trade entry and exit points against market prices.
 Usage Can be directly loaded and displayed in the GUI for a quick visual summary.
