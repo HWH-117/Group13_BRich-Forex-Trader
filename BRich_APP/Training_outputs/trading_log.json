@@ -1,0 +1,3602 @@
+[
+    {
+        "Date":"2025-02-06",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0304675549,
+        "Predicted Price":0.0302917236,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-06",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9614600296,
+        "Predicted Price":0.9601072358,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-06",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7997399985,
+        "Predicted Price":0.7983776543,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-06",
+        "Symbol":"USDJPY=X",
+        "Actual Price":152.6060028076,
+        "Predicted Price":153.5029828585,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-07",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0304915216,
+        "Predicted Price":0.0303561752,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-07",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9628600334,
+        "Predicted Price":0.9575139227,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-07",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.8040199618,
+        "Predicted Price":0.7967265045,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-07",
+        "Symbol":"USDJPY=X",
+        "Actual Price":151.1929931641,
+        "Predicted Price":151.9813309407,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-10",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0304618943,
+        "Predicted Price":0.0303800485,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-10",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9697800384,
+        "Predicted Price":0.958906506,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-10",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.8069999575,
+        "Predicted Price":0.8009933693,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-10",
+        "Symbol":"USDJPY=X",
+        "Actual Price":151.845993042,
+        "Predicted Price":150.5730439794,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-11",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0304271374,
+        "Predicted Price":0.030350405,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-11",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.970730006,
+        "Predicted Price":0.9657914296,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-11",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.8090200158,
+        "Predicted Price":0.8039630533,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-11",
+        "Symbol":"USDJPY=X",
+        "Actual Price":151.7590026855,
+        "Predicted Price":151.2210994005,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-12",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0304847397,
+        "Predicted Price":0.0303156593,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-12",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.964790017,
+        "Predicted Price":0.9667230675,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-12",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.8031100355,
+        "Predicted Price":0.8059717859,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-12",
+        "Symbol":"USDJPY=X",
+        "Actual Price":152.7389984131,
+        "Predicted Price":151.1324821234,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-13",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0304360259,
+        "Predicted Price":0.0303729632,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-13",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.962279938,
+        "Predicted Price":0.9607980487,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-13",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.8031700129,
+        "Predicted Price":0.8000829041,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-13",
+        "Symbol":"USDJPY=X",
+        "Actual Price":154.2550048828,
+        "Predicted Price":152.1071426427,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-14",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0306604579,
+        "Predicted Price":0.0303243685,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-14",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9558699929,
+        "Predicted Price":0.958289529,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-14",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7959599893,
+        "Predicted Price":0.8001406851,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-14",
+        "Symbol":"USDJPY=X",
+        "Actual Price":152.9889984131,
+        "Predicted Price":153.6162919318,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-17",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0306133367,
+        "Predicted Price":0.0305479774,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-17",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9533600038,
+        "Predicted Price":0.9519000105,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-17",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7946500473,
+        "Predicted Price":0.7929564105,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-17",
+        "Symbol":"USDJPY=X",
+        "Actual Price":152.0229949951,
+        "Predicted Price":152.3550338849,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-18",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0305748694,
+        "Predicted Price":0.0305009043,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-18",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9537099904,
+        "Predicted Price":0.9493904246,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-18",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7923000216,
+        "Predicted Price":0.7916461216,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-18",
+        "Symbol":"USDJPY=X",
+        "Actual Price":151.4440002441,
+        "Predicted Price":151.3921382676,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0
+    },
+    {
+        "Date":"2025-02-19",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0305611342,
+        "Predicted Price":0.0304623667,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0000137351,
+        "Total Equity":1000.0000137351
+    },
+    {
+        "Date":"2025-02-19",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9570900365,
+        "Predicted Price":0.9497176127,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0033800461,
+        "Total Equity":999.996633689
+    },
+    {
+        "Date":"2025-02-19",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7920299688,
+        "Predicted Price":0.7892961553,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.996633689
+    },
+    {
+        "Date":"2025-02-19",
+        "Symbol":"USDJPY=X",
+        "Actual Price":151.9309997559,
+        "Predicted Price":150.8142966889,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.996633689
+    },
+    {
+        "Date":"2025-02-20",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.030537894,
+        "Predicted Price":0.0304484319,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0000369754,
+        "Total Equity":1000.0000369754
+    },
+    {
+        "Date":"2025-02-20",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9595999714,
+        "Predicted Price":0.9530646075,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.005889981,
+        "Total Equity":999.9941469943
+    },
+    {
+        "Date":"2025-02-20",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7946500473,
+        "Predicted Price":0.789023752,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9941469943
+    },
+    {
+        "Date":"2025-02-20",
+        "Symbol":"USDJPY=X",
+        "Actual Price":151.2200012207,
+        "Predicted Price":151.2984858371,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9941469943
+    },
+    {
+        "Date":"2025-02-21",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0305873081,
+        "Predicted Price":0.0304250329,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0000124387,
+        "Total Equity":999.9999875613
+    },
+    {
+        "Date":"2025-02-21",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9523299627,
+        "Predicted Price":0.9555493955,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0013800277,
+        "Total Equity":1000.0013675889
+    },
+    {
+        "Date":"2025-02-21",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7892409826,
+        "Predicted Price":0.7916309426,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0013675889
+    },
+    {
+        "Date":"2025-02-21",
+        "Symbol":"USDJPY=X",
+        "Actual Price":149.4080047607,
+        "Predicted Price":150.5908590761,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0013675889
+    },
+    {
+        "Date":"2025-02-24",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0305129234,
+        "Predicted Price":0.0304741728,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.000061946,
+        "Total Equity":1000.000061946
+    },
+    {
+        "Date":"2025-02-24",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9546700044,
+        "Predicted Price":0.9483010906,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.000960014,
+        "Total Equity":999.999101932
+    },
+    {
+        "Date":"2025-02-24",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7905200261,
+        "Predicted Price":0.7862398833,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.999101932
+    },
+    {
+        "Date":"2025-02-24",
+        "Symbol":"USDJPY=X",
+        "Actual Price":149.3869934082,
+        "Predicted Price":148.7877349092,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.999101932
+    },
+    {
+        "Date":"2025-02-25",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0305813216,
+        "Predicted Price":0.0304001068,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0000064522,
+        "Total Equity":999.9999935478
+    },
+    {
+        "Date":"2025-02-25",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9559000557,
+        "Predicted Price":0.9506171397,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0021900653,
+        "Total Equity":999.9978034825
+    },
+    {
+        "Date":"2025-02-25",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7925299733,
+        "Predicted Price":0.7875057703,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9978034825
+    },
+    {
+        "Date":"2025-02-25",
+        "Symbol":"USDJPY=X",
+        "Actual Price":149.8639984131,
+        "Predicted Price":148.7673926963,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9978034825
+    },
+    {
+        "Date":"2025-02-26",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0305079874,
+        "Predicted Price":0.0304682852,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.000066882,
+        "Total Equity":1000.000066882
+    },
+    {
+        "Date":"2025-02-26",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9502000112,
+        "Predicted Price":0.9518258852,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0035099792,
+        "Total Equity":1000.0035768612
+    },
+    {
+        "Date":"2025-02-26",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7889900042,
+        "Predicted Price":0.7894996809,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0035768612
+    },
+    {
+        "Date":"2025-02-26",
+        "Symbol":"USDJPY=X",
+        "Actual Price":149.0780029297,
+        "Predicted Price":149.2419614233,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0035768612
+    },
+    {
+        "Date":"2025-02-27",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.03053407,
+        "Predicted Price":0.0303952668,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0000407994,
+        "Total Equity":1000.0000407994
+    },
+    {
+        "Date":"2025-02-27",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9533999862,
+        "Predicted Price":0.9461341612,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0003100042,
+        "Total Equity":1000.0003508036
+    },
+    {
+        "Date":"2025-02-27",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7885000138,
+        "Predicted Price":0.7859660817,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0003508036
+    },
+    {
+        "Date":"2025-02-27",
+        "Symbol":"USDJPY=X",
+        "Actual Price":148.8379974365,
+        "Predicted Price":148.4590060255,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0003508036
+    },
+    {
+        "Date":"2025-02-28",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0303935669,
+        "Predicted Price":0.0304212508,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0001813024,
+        "Total Equity":1000.0001813024
+    },
+    {
+        "Date":"2025-02-28",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.961990042,
+        "Predicted Price":0.9493094771,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0082800516,
+        "Total Equity":999.9919012508
+    },
+    {
+        "Date":"2025-02-28",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7937200366,
+        "Predicted Price":0.7854731316,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9919012508
+    },
+    {
+        "Date":"2025-02-28",
+        "Symbol":"USDJPY=X",
+        "Actual Price":150.0119934082,
+        "Predicted Price":148.2204092654,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9919012508
+    },
+    {
+        "Date":"2025-03-03",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0303905196,
+        "Predicted Price":0.0302812412,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0001843497,
+        "Total Equity":1000.0001843497
+    },
+    {
+        "Date":"2025-03-03",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9602599336,
+        "Predicted Price":0.9578523262,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0065499432,
+        "Total Equity":999.9936344065
+    },
+    {
+        "Date":"2025-03-03",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7934000108,
+        "Predicted Price":0.7906667396,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9936344065
+    },
+    {
+        "Date":"2025-03-03",
+        "Symbol":"USDJPY=X",
+        "Actual Price":150.7709960938,
+        "Predicted Price":149.3900298586,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9936344065
+    },
+    {
+        "Date":"2025-03-04",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0304053947,
+        "Predicted Price":0.0302783931,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0001694746,
+        "Total Equity":1000.0001694746
+    },
+    {
+        "Date":"2025-03-04",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.953740026,
+        "Predicted Price":0.9561212765,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0000300356,
+        "Total Equity":1000.000139439
+    },
+    {
+        "Date":"2025-03-04",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7873100229,
+        "Predicted Price":0.7903396885,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.000139439
+    },
+    {
+        "Date":"2025-03-04",
+        "Symbol":"USDJPY=X",
+        "Actual Price":149.3049926758,
+        "Predicted Price":150.1459056453,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.000139439
+    },
+    {
+        "Date":"2025-03-05",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0304926392,
+        "Predicted Price":0.0302931025,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0000822302,
+        "Total Equity":1000.0000822302
+    },
+    {
+        "Date":"2025-03-05",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9409999453,
+        "Predicted Price":0.9496252904,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0127100451,
+        "Total Equity":1000.0127922753
+    },
+    {
+        "Date":"2025-03-05",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7816000022,
+        "Predicted Price":0.7842669921,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0127922753
+    },
+    {
+        "Date":"2025-03-05",
+        "Symbol":"USDJPY=X",
+        "Actual Price":149.7989959717,
+        "Predicted Price":148.6858051864,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0127922753
+    },
+    {
+        "Date":"2025-03-06",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0304867812,
+        "Predicted Price":0.0303800049,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0000880882,
+        "Total Equity":1000.0000880882
+    },
+    {
+        "Date":"2025-03-06",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9263600455,
+        "Predicted Price":0.9369380287,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0273499449,
+        "Total Equity":1000.0274380332
+    },
+    {
+        "Date":"2025-03-06",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7756800324,
+        "Predicted Price":0.7785770007,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0274380332
+    },
+    {
+        "Date":"2025-03-06",
+        "Symbol":"USDJPY=X",
+        "Actual Price":148.8979949951,
+        "Predicted Price":149.1777817369,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0274380332
+    },
+    {
+        "Date":"2025-03-07",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0304340832,
+        "Predicted Price":0.0303741192,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0001407862,
+        "Total Equity":1000.0001407862
+    },
+    {
+        "Date":"2025-03-07",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9269600059,
+        "Predicted Price":0.9223596587,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0267499845,
+        "Total Equity":1000.0268907706
+    },
+    {
+        "Date":"2025-03-07",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.776077956,
+        "Predicted Price":0.7726811042,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0268907706
+    },
+    {
+        "Date":"2025-03-07",
+        "Symbol":"USDJPY=X",
+        "Actual Price":148.108001709,
+        "Predicted Price":148.2813185771,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0268907706
+    },
+    {
+        "Date":"2025-03-10",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0304627288,
+        "Predicted Price":0.0303216293,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0001121406,
+        "Total Equity":1000.0001121406
+    },
+    {
+        "Date":"2025-03-10",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9207600088,
+        "Predicted Price":0.9229526187,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0329499816,
+        "Total Equity":1000.0330621221
+    },
+    {
+        "Date":"2025-03-10",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7732499965,
+        "Predicted Price":0.7730777355,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0330621221
+    },
+    {
+        "Date":"2025-03-10",
+        "Symbol":"USDJPY=X",
+        "Actual Price":147.608001709,
+        "Predicted Price":147.4960880975,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0330621221
+    },
+    {
+        "Date":"2025-03-11",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0304260254,
+        "Predicted Price":0.0303500864,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.000148844,
+        "Total Equity":1000.000148844
+    },
+    {
+        "Date":"2025-03-11",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9225599601,
+        "Predicted Price":0.9167766493,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0311500303,
+        "Total Equity":1000.0312988742
+    },
+    {
+        "Date":"2025-03-11",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7766699624,
+        "Predicted Price":0.7702594669,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0312988742
+    },
+    {
+        "Date":"2025-03-11",
+        "Symbol":"USDJPY=X",
+        "Actual Price":147.0690002441,
+        "Predicted Price":146.9989206598,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0312988742
+    },
+    {
+        "Date":"2025-03-12",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0304239877,
+        "Predicted Price":0.0303133281,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0001508817,
+        "Total Equity":1000.0001508817
+    },
+    {
+        "Date":"2025-03-12",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9162400183,
+        "Predicted Price":0.9185691637,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0374699721,
+        "Total Equity":1000.0376208538
+    },
+    {
+        "Date":"2025-03-12",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7725099939,
+        "Predicted Price":0.7736612705,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0376208538
+    },
+    {
+        "Date":"2025-03-12",
+        "Symbol":"USDJPY=X",
+        "Actual Price":148.0420074463,
+        "Predicted Price":146.4616375158,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0376208538
+    },
+    {
+        "Date":"2025-03-13",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0303893182,
+        "Predicted Price":0.0303110666,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0001855511,
+        "Total Equity":1000.0001855511
+    },
+    {
+        "Date":"2025-03-13",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.918590003,
+        "Predicted Price":0.912281767,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0351199874,
+        "Total Equity":1000.0353055385
+    },
+    {
+        "Date":"2025-03-13",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7713500102,
+        "Predicted Price":0.7695134374,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0353055385
+    },
+    {
+        "Date":"2025-03-13",
+        "Symbol":"USDJPY=X",
+        "Actual Price":148.279006958,
+        "Predicted Price":147.4302775188,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0353055385
+    },
+    {
+        "Date":"2025-03-14",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0303320773,
+        "Predicted Price":0.0302763357,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0002427921,
+        "Total Equity":1000.0002427921
+    },
+    {
+        "Date":"2025-03-14",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9211800265,
+        "Predicted Price":0.9146344637,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0325299639,
+        "Total Equity":1000.032772756
+    },
+    {
+        "Date":"2025-03-14",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7717000531,
+        "Predicted Price":0.7683565178,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.032772756
+    },
+    {
+        "Date":"2025-03-14",
+        "Symbol":"USDJPY=X",
+        "Actual Price":147.949005127,
+        "Predicted Price":147.6668856363,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.032772756
+    },
+    {
+        "Date":"2025-03-17",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.030371137,
+        "Predicted Price":0.0302191642,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0002037324,
+        "Total Equity":1000.0002037324
+    },
+    {
+        "Date":"2025-03-17",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9190099558,
+        "Predicted Price":0.9172241308,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0347000346,
+        "Total Equity":1000.034903767
+    },
+    {
+        "Date":"2025-03-17",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7733599927,
+        "Predicted Price":0.7687041827,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0016599397,
+        "Total Equity":1000.0332438274
+    },
+    {
+        "Date":"2025-03-17",
+        "Symbol":"USDJPY=X",
+        "Actual Price":148.5980072021,
+        "Predicted Price":147.3397901109,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0332438274
+    },
+    {
+        "Date":"2025-03-18",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0303431191,
+        "Predicted Price":0.0302578534,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0002317503,
+        "Total Equity":1000.0002317503
+    },
+    {
+        "Date":"2025-03-18",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9158199931,
+        "Predicted Price":0.9150694777,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0378899973,
+        "Total Equity":1000.0381217477
+    },
+    {
+        "Date":"2025-03-18",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7701000314,
+        "Predicted Price":0.7703574902,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0016000217,
+        "Total Equity":1000.0397217693
+    },
+    {
+        "Date":"2025-03-18",
+        "Symbol":"USDJPY=X",
+        "Actual Price":149.3789978027,
+        "Predicted Price":147.9865573546,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0397217693
+    },
+    {
+        "Date":"2025-03-19",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0303221438,
+        "Predicted Price":0.0302297106,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0002527256,
+        "Total Equity":1000.0002527256
+    },
+    {
+        "Date":"2025-03-19",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9141200276,
+        "Predicted Price":0.9118974416,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0395899628,
+        "Total Equity":1000.0398426883
+    },
+    {
+        "Date":"2025-03-19",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7692000441,
+        "Predicted Price":0.7671089752,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.002500009,
+        "Total Equity":1000.0423426973
+    },
+    {
+        "Date":"2025-03-19",
+        "Symbol":"USDJPY=X",
+        "Actual Price":149.4519958496,
+        "Predicted Price":148.7634227013,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0423426973
+    },
+    {
+        "Date":"2025-03-20",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0303000007,
+        "Predicted Price":0.0302086542,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0002748687,
+        "Total Equity":1000.0002748687
+    },
+    {
+        "Date":"2025-03-20",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9164300013,
+        "Predicted Price":0.9102180951,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0372799891,
+        "Total Equity":1000.0375548578
+    },
+    {
+        "Date":"2025-03-20",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7685999996,
+        "Predicted Price":0.7662166123,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0031000534,
+        "Total Equity":1000.0406549112
+    },
+    {
+        "Date":"2025-03-20",
+        "Symbol":"USDJPY=X",
+        "Actual Price":148.4900054932,
+        "Predicted Price":148.8350918312,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0406549112
+    },
+    {
+        "Date":"2025-03-21",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.030314697,
+        "Predicted Price":0.0301865498,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0002601724,
+        "Total Equity":1000.0002601724
+    },
+    {
+        "Date":"2025-03-21",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9210900049,
+        "Predicted Price":0.9125371723,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0326199855,
+        "Total Equity":1000.0328801579
+    },
+    {
+        "Date":"2025-03-21",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7711300566,
+        "Predicted Price":0.7656241588,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0005699964,
+        "Total Equity":1000.0334501544
+    },
+    {
+        "Date":"2025-03-21",
+        "Symbol":"USDJPY=X",
+        "Actual Price":148.595993042,
+        "Predicted Price":147.8759617732,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0334501544
+    },
+    {
+        "Date":"2025-03-24",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0303260051,
+        "Predicted Price":0.0302012907,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0002488643,
+        "Total Equity":1000.0002488643
+    },
+    {
+        "Date":"2025-03-24",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9228700278,
+        "Predicted Price":0.9171988402,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0308399626,
+        "Total Equity":1000.0310888269
+    },
+    {
+        "Date":"2025-03-24",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.773719998,
+        "Predicted Price":0.7681481071,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.002019945,
+        "Total Equity":1000.0290688819
+    },
+    {
+        "Date":"2025-03-24",
+        "Symbol":"USDJPY=X",
+        "Actual Price":149.6770019531,
+        "Predicted Price":147.9808525413,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0290688819
+    },
+    {
+        "Date":"2025-03-25",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0302926581,
+        "Predicted Price":0.0302125778,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0002822112,
+        "Total Equity":1000.0002822112
+    },
+    {
+        "Date":"2025-03-25",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9256199952,
+        "Predicted Price":0.9189828008,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0280899952,
+        "Total Equity":1000.0283722064
+    },
+    {
+        "Date":"2025-03-25",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7737399804,
+        "Predicted Price":0.7707251757,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0020399273,
+        "Total Equity":1000.0263322791
+    },
+    {
+        "Date":"2025-03-25",
+        "Symbol":"USDJPY=X",
+        "Actual Price":150.7740020752,
+        "Predicted Price":149.0555181821,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0263322791
+    },
+    {
+        "Date":"2025-03-26",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0302614905,
+        "Predicted Price":0.0301794351,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0003133789,
+        "Total Equity":1000.0003133789
+    },
+    {
+        "Date":"2025-03-26",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9269999558,
+        "Predicted Price":0.9217340151,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0267100346,
+        "Total Equity":1000.0270234135
+    },
+    {
+        "Date":"2025-03-26",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7725999974,
+        "Predicted Price":0.7707400819,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0008999443,
+        "Total Equity":1000.0261234692
+    },
+    {
+        "Date":"2025-03-26",
+        "Symbol":"USDJPY=X",
+        "Actual Price":149.9499969482,
+        "Predicted Price":150.146226622,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0261234692
+    },
+    {
+        "Date":"2025-03-27",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0302219801,
+        "Predicted Price":0.030148474,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0003528893,
+        "Total Equity":1000.0003528893
+    },
+    {
+        "Date":"2025-03-27",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9309200415,
+        "Predicted Price":0.9231233417,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0227899489,
+        "Total Equity":1000.0231428382
+    },
+    {
+        "Date":"2025-03-27",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7765399728,
+        "Predicted Price":0.7696037777,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0048399197,
+        "Total Equity":1000.0183029186
+    },
+    {
+        "Date":"2025-03-27",
+        "Symbol":"USDJPY=X",
+        "Actual Price":150.4730072021,
+        "Predicted Price":149.324507292,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0183029186
+    },
+    {
+        "Date":"2025-03-28",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0302010775,
+        "Predicted Price":0.0301093331,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0003737919,
+        "Total Equity":1000.0003737919
+    },
+    {
+        "Date":"2025-03-28",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9258400468,
+        "Predicted Price":0.9270485164,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0278699436,
+        "Total Equity":1000.0282437355
+    },
+    {
+        "Date":"2025-03-28",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7720799743,
+        "Predicted Price":0.7735314364,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0003799212,
+        "Total Equity":1000.0278638143
+    },
+    {
+        "Date":"2025-03-28",
+        "Symbol":"USDJPY=X",
+        "Actual Price":150.8470001221,
+        "Predicted Price":149.8449927382,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0278638143
+    },
+    {
+        "Date":"2025-03-31",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0301333722,
+        "Predicted Price":0.0300886306,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0004414972,
+        "Total Equity":1000.0004414972
+    },
+    {
+        "Date":"2025-03-31",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9238800281,
+        "Predicted Price":0.9220022281,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0298299623,
+        "Total Equity":1000.0302714595
+    },
+    {
+        "Date":"2025-03-31",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7728999707,
+        "Predicted Price":0.7690903761,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0011999176,
+        "Total Equity":1000.0290715419
+    },
+    {
+        "Date":"2025-03-31",
+        "Symbol":"USDJPY=X",
+        "Actual Price":149.6170043945,
+        "Predicted Price":150.2169949856,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0290715419
+    },
+    {
+        "Date":"2025-04-01",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0300850496,
+        "Predicted Price":0.0300212896,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0004898198,
+        "Total Equity":1000.0004898198
+    },
+    {
+        "Date":"2025-04-01",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9243100269,
+        "Predicted Price":0.9200530127,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0293999635,
+        "Total Equity":1000.0298897833
+    },
+    {
+        "Date":"2025-04-01",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7739400037,
+        "Predicted Price":0.7699017394,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0022399506,
+        "Total Equity":1000.0276498327
+    },
+    {
+        "Date":"2025-04-01",
+        "Symbol":"USDJPY=X",
+        "Actual Price":149.9129943848,
+        "Predicted Price":148.9913193988,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0276498327
+    },
+    {
+        "Date":"2025-04-02",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0301173087,
+        "Predicted Price":0.0299731281,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0004575606,
+        "Total Equity":1000.0004575606
+    },
+    {
+        "Date":"2025-04-02",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9262700314,
+        "Predicted Price":0.9204902659,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.027439959,
+        "Total Equity":1000.0278975196
+    },
+    {
+        "Date":"2025-04-02",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7738099982,
+        "Predicted Price":0.7709361282,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0021099452,
+        "Total Equity":1000.0257875745
+    },
+    {
+        "Date":"2025-04-02",
+        "Symbol":"USDJPY=X",
+        "Actual Price":149.7830047607,
+        "Predicted Price":149.2859867749,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0257875745
+    },
+    {
+        "Date":"2025-04-03",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0300638843,
+        "Predicted Price":0.0300053012,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.000510985,
+        "Total Equity":1000.000510985
+    },
+    {
+        "Date":"2025-04-03",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9166999968,
+        "Predicted Price":0.922453161,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0370099936,
+        "Total Equity":1000.0375209786
+    },
+    {
+        "Date":"2025-04-03",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7664999824,
+        "Predicted Price":0.7708094851,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0052000707,
+        "Total Equity":1000.0427210493
+    },
+    {
+        "Date":"2025-04-03",
+        "Symbol":"USDJPY=X",
+        "Actual Price":147.8719940186,
+        "Predicted Price":149.1567311402,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0427210493
+    },
+    {
+        "Date":"2025-04-04",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0302744973,
+        "Predicted Price":0.0299522633,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.000300372,
+        "Total Equity":1000.000300372
+    },
+    {
+        "Date":"2025-04-04",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9054900151,
+        "Predicted Price":0.9129402362,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0482199753,
+        "Total Equity":1000.0485203473
+    },
+    {
+        "Date":"2025-04-04",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7640199986,
+        "Predicted Price":0.7635350299,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0076800545,
+        "Total Equity":1000.0562004018
+    },
+    {
+        "Date":"2025-04-04",
+        "Symbol":"USDJPY=X",
+        "Actual Price":146.2310028076,
+        "Predicted Price":147.2551457752,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0562004018
+    },
+    {
+        "Date":"2025-04-07",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.030154543,
+        "Predicted Price":0.0301622765,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0004203264,
+        "Total Equity":1000.0004203264
+    },
+    {
+        "Date":"2025-04-07",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9103699993,
+        "Predicted Price":0.9017936203,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0433399911,
+        "Total Equity":1000.0437603175
+    },
+    {
+        "Date":"2025-04-07",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7745499916,
+        "Predicted Price":0.7610740251,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0028499386,
+        "Total Equity":1000.0409103789
+    },
+    {
+        "Date":"2025-04-07",
+        "Symbol":"USDJPY=X",
+        "Actual Price":145.4329986572,
+        "Predicted Price":145.6224171987,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0409103789
+    },
+    {
+        "Date":"2025-04-08",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0303213168,
+        "Predicted Price":0.0300428248,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0002535526,
+        "Total Equity":1000.0002535526
+    },
+    {
+        "Date":"2025-04-08",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9161400536,
+        "Predicted Price":0.9066646791,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0375699368,
+        "Total Equity":1000.0378234894
+    },
+    {
+        "Date":"2025-04-08",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7852399812,
+        "Predicted Price":0.7715640208,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0242835613
+    },
+    {
+        "Date":"2025-04-08",
+        "Symbol":"USDJPY=X",
+        "Actual Price":147.7890014648,
+        "Predicted Price":144.8274540415,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0378234894
+    },
+    {
+        "Date":"2025-04-09",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0302291065,
+        "Predicted Price":0.0302090316,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0003457628,
+        "Total Equity":1000.0003457628
+    },
+    {
+        "Date":"2025-04-09",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9107099896,
+        "Predicted Price":0.9124215705,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0430000008,
+        "Total Equity":1000.0433457636
+    },
+    {
+        "Date":"2025-04-09",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7817999574,
+        "Predicted Price":0.7822104965,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0298058355
+    },
+    {
+        "Date":"2025-04-09",
+        "Symbol":"USDJPY=X",
+        "Actual Price":145.8450012207,
+        "Predicted Price":147.1725585001,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0433457636
+    },
+    {
+        "Date":"2025-04-10",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0306860469,
+        "Predicted Price":0.0301171977,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0001111776,
+        "Total Equity":999.9998888224
+    },
+    {
+        "Date":"2025-04-10",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9130700179,
+        "Predicted Price":0.907030599,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0406399725,
+        "Total Equity":1000.040528795
+    },
+    {
+        "Date":"2025-04-10",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.779699973,
+        "Predicted Price":0.7787836502,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0269888669
+    },
+    {
+        "Date":"2025-04-10",
+        "Symbol":"USDJPY=X",
+        "Actual Price":147.3990020752,
+        "Predicted Price":145.2359852942,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.040528795
+    },
+    {
+        "Date":"2025-04-11",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0305005442,
+        "Predicted Price":0.0305725858,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0000743251,
+        "Total Equity":1000.0000743251
+    },
+    {
+        "Date":"2025-04-11",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8882700204,
+        "Predicted Price":0.909402259,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.06543997,
+        "Total Equity":1000.0655142951
+    },
+    {
+        "Date":"2025-04-11",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7697000204,
+        "Predicted Price":0.7766940399,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.051974367
+    },
+    {
+        "Date":"2025-04-11",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.7469940186,
+        "Predicted Price":146.783553859,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0655142951
+    },
+    {
+        "Date":"2025-04-14",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0309004392,
+        "Predicted Price":0.0303877039,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0003255699,
+        "Total Equity":999.9996744301
+    },
+    {
+        "Date":"2025-04-14",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.881589967,
+        "Predicted Price":0.8847191899,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0721200234,
+        "Total Equity":1000.0717944535
+    },
+    {
+        "Date":"2025-04-14",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7642199704,
+        "Predicted Price":0.7667330937,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0582545254
+    },
+    {
+        "Date":"2025-04-14",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.6959991455,
+        "Predicted Price":143.1478507563,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0717944535
+    },
+    {
+        "Date":"2025-04-15",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0309054051,
+        "Predicted Price":0.030786104,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0003305357,
+        "Total Equity":999.9996694643
+    },
+    {
+        "Date":"2025-04-15",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8818600305,
+        "Predicted Price":0.8780732447,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0718499599,
+        "Total Equity":1000.0715194242
+    },
+    {
+        "Date":"2025-04-15",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7590400016,
+        "Predicted Price":0.7612713102,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0579794961
+    },
+    {
+        "Date":"2025-04-15",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.220993042,
+        "Predicted Price":143.0961176903,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0715194242
+    },
+    {
+        "Date":"2025-04-16",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0307654422,
+        "Predicted Price":0.0307909597,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0001905728,
+        "Total Equity":999.9998094272
+    },
+    {
+        "Date":"2025-04-16",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8855300022,
+        "Predicted Price":0.8783500847,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0681799882,
+        "Total Equity":1000.0679894154
+    },
+    {
+        "Date":"2025-04-16",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7558000385,
+        "Predicted Price":0.7561120601,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0544494873
+    },
+    {
+        "Date":"2025-04-16",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.1809997559,
+        "Predicted Price":142.6224577977,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0679894154
+    },
+    {
+        "Date":"2025-04-17",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0308844056,
+        "Predicted Price":0.0306514556,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0003095362,
+        "Total Equity":999.9996904638
+    },
+    {
+        "Date":"2025-04-17",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8774399939,
+        "Predicted Price":0.8820169018,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0762699965,
+        "Total Equity":1000.0759604603
+    },
+    {
+        "Date":"2025-04-17",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7556300402,
+        "Predicted Price":0.7528892704,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0624205322
+    },
+    {
+        "Date":"2025-04-17",
+        "Symbol":"USDJPY=X",
+        "Actual Price":141.9279937744,
+        "Predicted Price":142.5834865549,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0759604603
+    },
+    {
+        "Date":"2025-04-22",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0308255684,
+        "Predicted Price":0.0307700858,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.000250699,
+        "Total Equity":999.999749301
+    },
+    {
+        "Date":"2025-04-22",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8686000141,
+        "Predicted Price":0.8739760129,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0851099763,
+        "Total Equity":1000.0848592773
+    },
+    {
+        "Date":"2025-04-22",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7473999708,
+        "Predicted Price":0.7527272749,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0713193491
+    },
+    {
+        "Date":"2025-04-22",
+        "Symbol":"USDJPY=X",
+        "Actual Price":140.8760070801,
+        "Predicted Price":141.3374918024,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0848592773
+    },
+    {
+        "Date":"2025-04-23",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0306997076,
+        "Predicted Price":0.0307116165,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0001248382,
+        "Total Equity":999.9998751618
+    },
+    {
+        "Date":"2025-04-23",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8809600298,
+        "Predicted Price":0.8651834501,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0727499606,
+        "Total Equity":1000.0726251224
+    },
+    {
+        "Date":"2025-04-23",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.753400001,
+        "Predicted Price":0.7445303511,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0590851943
+    },
+    {
+        "Date":"2025-04-23",
+        "Symbol":"USDJPY=X",
+        "Actual Price":142.68800354,
+        "Predicted Price":140.2913032507,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0726251224
+    },
+    {
+        "Date":"2025-04-24",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0307382103,
+        "Predicted Price":0.0305862267,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0001633409,
+        "Total Equity":999.9998366591
+    },
+    {
+        "Date":"2025-04-24",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8828200288,
+        "Predicted Price":0.8775064069,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0708899616,
+        "Total Equity":1000.0707266207
+    },
+    {
+        "Date":"2025-04-24",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.753890008,
+        "Predicted Price":0.750509832,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0571866926
+    },
+    {
+        "Date":"2025-04-24",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.2230072021,
+        "Predicted Price":142.0965090184,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0707266207
+    },
+    {
+        "Date":"2025-04-25",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0308303218,
+        "Predicted Price":0.0306246058,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0002554525,
+        "Total Equity":999.9997445475
+    },
+    {
+        "Date":"2025-04-25",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8793599881,
+        "Predicted Price":0.879374605,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0743500023,
+        "Total Equity":1000.0740945499
+    },
+    {
+        "Date":"2025-04-25",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7503999741,
+        "Predicted Price":0.7510013074,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0605546218
+    },
+    {
+        "Date":"2025-04-25",
+        "Symbol":"USDJPY=X",
+        "Actual Price":142.8789978027,
+        "Predicted Price":142.631267755,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0740945499
+    },
+    {
+        "Date":"2025-04-28",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0307512525,
+        "Predicted Price":0.0307163846,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0001763832,
+        "Total Equity":999.9998236168
+    },
+    {
+        "Date":"2025-04-28",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.881589967,
+        "Predicted Price":0.8759465715,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0721200234,
+        "Total Equity":1000.0719436402
+    },
+    {
+        "Date":"2025-04-28",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.752439983,
+        "Predicted Price":0.7475292997,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0584037121
+    },
+    {
+        "Date":"2025-04-28",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.841003418,
+        "Predicted Price":142.2906793535,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0719436402
+    },
+    {
+        "Date":"2025-04-29",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0308395457,
+        "Predicted Price":0.0306376374,
+        "Action":"SHORT",
+        "Position Status":"SHORT",
+        "Floating PnL":-0.0002646763,
+        "Total Equity":999.9997353237
+    },
+    {
+        "Date":"2025-04-29",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.876490006,
+        "Predicted Price":0.8781828064,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0772199844,
+        "Total Equity":1000.0769553081
+    },
+    {
+        "Date":"2025-04-29",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7442599959,
+        "Predicted Price":0.7495623191,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.06341538
+    },
+    {
+        "Date":"2025-04-29",
+        "Symbol":"USDJPY=X",
+        "Actual Price":142.1779937744,
+        "Predicted Price":143.249886895,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0769553081
+    },
+    {
+        "Date":"2025-04-30",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0309389662,
+        "Predicted Price":0.0307255407,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-04-30",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8780199636,
+        "Predicted Price":0.8731206418,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0756900268,
+        "Total Equity":1000.0756900268
+    },
+    {
+        "Date":"2025-04-30",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7456679636,
+        "Predicted Price":0.741416371,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0621500987
+    },
+    {
+        "Date":"2025-04-30",
+        "Symbol":"USDJPY=X",
+        "Actual Price":142.2989959717,
+        "Predicted Price":141.595055695,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0756900268
+    },
+    {
+        "Date":"2025-05-01",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0312187802,
+        "Predicted Price":0.0308244781,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-01",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8830100671,
+        "Predicted Price":0.8746611057,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0706999233,
+        "Total Equity":1000.0706999233
+    },
+    {
+        "Date":"2025-05-01",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7505300212,
+        "Predicted Price":0.7428235853,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0571599951
+    },
+    {
+        "Date":"2025-05-01",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.0090026855,
+        "Predicted Price":141.7169964376,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0706999233
+    },
+    {
+        "Date":"2025-05-02",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0311413947,
+        "Predicted Price":0.0311032513,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-02",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8852300344,
+        "Predicted Price":0.8796523932,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.068479956,
+        "Total Equity":1000.068479956
+    },
+    {
+        "Date":"2025-05-02",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7526500099,
+        "Predicted Price":0.7476748152,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0549400279
+    },
+    {
+        "Date":"2025-05-02",
+        "Symbol":"USDJPY=X",
+        "Actual Price":145.4479980469,
+        "Predicted Price":142.4252972754,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.068479956
+    },
+    {
+        "Date":"2025-05-05",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0325687267,
+        "Predicted Price":0.0310261308,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-05",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.883140028,
+        "Predicted Price":0.8818843942,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0705699624,
+        "Total Equity":1000.0705699624
+    },
+    {
+        "Date":"2025-05-05",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7534699727,
+        "Predicted Price":0.7497962686,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0570300343
+    },
+    {
+        "Date":"2025-05-05",
+        "Symbol":"USDJPY=X",
+        "Actual Price":144.6239929199,
+        "Predicted Price":144.855906872,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0705699624
+    },
+    {
+        "Date":"2025-05-06",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0342935547,
+        "Predicted Price":0.0324480392,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-06",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8839099792,
+        "Predicted Price":0.879820823,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0698000112,
+        "Total Equity":1000.0698000112
+    },
+    {
+        "Date":"2025-05-06",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7523000301,
+        "Predicted Price":0.750618631,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0562600831
+    },
+    {
+        "Date":"2025-05-06",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.654006958,
+        "Predicted Price":144.0365007002,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0698000112
+    },
+    {
+        "Date":"2025-05-07",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0333582424,
+        "Predicted Price":0.0341661538,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-07",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8816199865,
+        "Predicted Price":0.8806071286,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0720900039,
+        "Total Equity":1000.0720900039
+    },
+    {
+        "Date":"2025-05-07",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7487300271,
+        "Predicted Price":0.7494591108,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0585500758
+    },
+    {
+        "Date":"2025-05-07",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.0350036621,
+        "Predicted Price":143.0713938651,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0720900039
+    },
+    {
+        "Date":"2025-05-08",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0329048038,
+        "Predicted Price":0.0332341545,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-08",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8844699991,
+        "Predicted Price":0.8783472246,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0692399913,
+        "Total Equity":1000.0692399913
+    },
+    {
+        "Date":"2025-05-08",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7522100397,
+        "Predicted Price":0.7459119431,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0557000632
+    },
+    {
+        "Date":"2025-05-08",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.8480072021,
+        "Predicted Price":142.4562232516,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0692399913
+    },
+    {
+        "Date":"2025-05-09",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0330371,
+        "Predicted Price":0.0327822649,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-09",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8909299539,
+        "Predicted Price":0.8812073163,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0627800365,
+        "Total Equity":1000.0627800365
+    },
+    {
+        "Date":"2025-05-09",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7555500033,
+        "Predicted Price":0.7493863735,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0492401084
+    },
+    {
+        "Date":"2025-05-09",
+        "Symbol":"USDJPY=X",
+        "Actual Price":146.0149993896,
+        "Predicted Price":143.2675735228,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0627800365
+    },
+    {
+        "Date":"2025-05-12",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0330617838,
+        "Predicted Price":0.0329139738,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-12",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8905000048,
+        "Predicted Price":0.887662064,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0632099856,
+        "Total Equity":1000.0632099856
+    },
+    {
+        "Date":"2025-05-12",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7524999883,
+        "Predicted Price":0.7527199292,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0496700575
+    },
+    {
+        "Date":"2025-05-12",
+        "Symbol":"USDJPY=X",
+        "Actual Price":145.81199646,
+        "Predicted Price":145.4276105372,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0632099856
+    },
+    {
+        "Date":"2025-05-13",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0329022035,
+        "Predicted Price":0.0329385271,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-13",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.9012599857,
+        "Predicted Price":0.8872500298,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0524500047,
+        "Total Equity":1000.0524500047
+    },
+    {
+        "Date":"2025-05-13",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7588500076,
+        "Predicted Price":0.7496834745,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0389100765
+    },
+    {
+        "Date":"2025-05-13",
+        "Symbol":"USDJPY=X",
+        "Actual Price":148.3099975586,
+        "Predicted Price":145.2263087962,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0524500047
+    },
+    {
+        "Date":"2025-05-14",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0328677073,
+        "Predicted Price":0.0327794844,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-14",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8940100446,
+        "Predicted Price":0.8979866426,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0596999458,
+        "Total Equity":1000.0596999458
+    },
+    {
+        "Date":"2025-05-14",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7516300041,
+        "Predicted Price":0.7560124654,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0461600177
+    },
+    {
+        "Date":"2025-05-14",
+        "Symbol":"USDJPY=X",
+        "Actual Price":147.5279998779,
+        "Predicted Price":147.7144325115,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0596999458
+    },
+    {
+        "Date":"2025-05-15",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0329601131,
+        "Predicted Price":0.0327449833,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-15",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8942999758,
+        "Predicted Price":0.8907796987,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0594100146,
+        "Total Equity":1000.0594100146
+    },
+    {
+        "Date":"2025-05-15",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7539499738,
+        "Predicted Price":0.7488255671,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0458700865
+    },
+    {
+        "Date":"2025-05-15",
+        "Symbol":"USDJPY=X",
+        "Actual Price":146.6499938965,
+        "Predicted Price":146.9358799706,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0594100146
+    },
+    {
+        "Date":"2025-05-16",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0331488065,
+        "Predicted Price":0.0328370358,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-16",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.893439976,
+        "Predicted Price":0.8910870546,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0602700144,
+        "Total Equity":1000.0602700144
+    },
+    {
+        "Date":"2025-05-16",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7514900157,
+        "Predicted Price":0.7511450837,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0467300863
+    },
+    {
+        "Date":"2025-05-16",
+        "Symbol":"USDJPY=X",
+        "Actual Price":145.6130065918,
+        "Predicted Price":146.0620480532,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0602700144
+    },
+    {
+        "Date":"2025-05-19",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.033109732,
+        "Predicted Price":0.0330251608,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-19",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8938500054,
+        "Predicted Price":0.890247612,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.059859985,
+        "Total Equity":1000.059859985
+    },
+    {
+        "Date":"2025-05-19",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7515689926,
+        "Predicted Price":0.7487027109,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0463200569
+    },
+    {
+        "Date":"2025-05-19",
+        "Symbol":"USDJPY=X",
+        "Actual Price":145.2980041504,
+        "Predicted Price":145.0299313806,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.059859985
+    },
+    {
+        "Date":"2025-05-20",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0331721157,
+        "Predicted Price":0.0329864154,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-20",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8902000619,
+        "Predicted Price":0.8906728409,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0635099285,
+        "Total Equity":1000.0635099285
+    },
+    {
+        "Date":"2025-05-20",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7485000078,
+        "Predicted Price":0.7487885086,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0499700004
+    },
+    {
+        "Date":"2025-05-20",
+        "Symbol":"USDJPY=X",
+        "Actual Price":144.9750061035,
+        "Predicted Price":144.7165544662,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0635099285
+    },
+    {
+        "Date":"2025-05-21",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0331715681,
+        "Predicted Price":0.0330486361,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-21",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8859000554,
+        "Predicted Price":0.8870484008,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.067809935,
+        "Total Equity":1000.067809935
+    },
+    {
+        "Date":"2025-05-21",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7463900182,
+        "Predicted Price":0.7457358477,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0542700069
+    },
+    {
+        "Date":"2025-05-21",
+        "Symbol":"USDJPY=X",
+        "Actual Price":144.3280029297,
+        "Predicted Price":144.3944213443,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.067809935
+    },
+    {
+        "Date":"2025-05-22",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0333087966,
+        "Predicted Price":0.0330481005,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-22",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.882520037,
+        "Predicted Price":0.8827760907,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0711899534,
+        "Total Equity":1000.0711899534
+    },
+    {
+        "Date":"2025-05-22",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7452099655,
+        "Predicted Price":0.7436422657,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0576500253
+    },
+    {
+        "Date":"2025-05-22",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.7550048828,
+        "Predicted Price":143.749473194,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0711899534
+    },
+    {
+        "Date":"2025-05-23",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0332813039,
+        "Predicted Price":0.0331848012,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-23",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8863799856,
+        "Predicted Price":0.87942247,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0673300048,
+        "Total Equity":1000.0673300048
+    },
+    {
+        "Date":"2025-05-23",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7451999693,
+        "Predicted Price":0.7424741386,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0537900767
+    },
+    {
+        "Date":"2025-05-23",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.858001709,
+        "Predicted Price":143.1787969095,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0673300048
+    },
+    {
+        "Date":"2025-05-26",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0333650298,
+        "Predicted Price":0.0331573522,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-26",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8792900279,
+        "Predicted Price":0.8832826871,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0744199625,
+        "Total Equity":1000.0744199625
+    },
+    {
+        "Date":"2025-05-26",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7387800409,
+        "Predicted Price":0.7424701977,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0608800344
+    },
+    {
+        "Date":"2025-05-26",
+        "Symbol":"USDJPY=X",
+        "Actual Price":142.8670043945,
+        "Predicted Price":143.2820256865,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0744199625
+    },
+    {
+        "Date":"2025-05-27",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0334280469,
+        "Predicted Price":0.033240655,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-27",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8780799788,
+        "Predicted Price":0.8762248419,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0756300116,
+        "Total Equity":1000.0756300116
+    },
+    {
+        "Date":"2025-05-27",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7371800128,
+        "Predicted Price":0.7360764312,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0620900835
+    },
+    {
+        "Date":"2025-05-27",
+        "Symbol":"USDJPY=X",
+        "Actual Price":142.6549987793,
+        "Predicted Price":142.2954154108,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0756300116
+    },
+    {
+        "Date":"2025-05-28",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0333724916,
+        "Predicted Price":0.0333032927,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-28",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8820599507,
+        "Predicted Price":0.8750248834,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0716500397,
+        "Total Equity":1000.0716500397
+    },
+    {
+        "Date":"2025-05-28",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7400100372,
+        "Predicted Price":0.7344816633,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0581101116
+    },
+    {
+        "Date":"2025-05-28",
+        "Symbol":"USDJPY=X",
+        "Actual Price":144.1770019531,
+        "Predicted Price":142.0840927221,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0716500397
+    },
+    {
+        "Date":"2025-05-29",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0333889797,
+        "Predicted Price":0.0332478689,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-29",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8901800351,
+        "Predicted Price":0.87899752,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0635299553,
+        "Total Equity":1000.0635299553
+    },
+    {
+        "Date":"2025-05-29",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7445199916,
+        "Predicted Price":0.7373014414,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0499900272
+    },
+    {
+        "Date":"2025-05-29",
+        "Symbol":"USDJPY=X",
+        "Actual Price":145.6970062256,
+        "Predicted Price":143.599009557,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0635299553
+    },
+    {
+        "Date":"2025-05-30",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0335007273,
+        "Predicted Price":0.0332642432,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-05-30",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8788600038,
+        "Predicted Price":0.887098296,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0748499866,
+        "Total Equity":1000.0748499866
+    },
+    {
+        "Date":"2025-05-30",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.740796003,
+        "Predicted Price":0.7417951875,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0613100585
+    },
+    {
+        "Date":"2025-05-30",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.779006958,
+        "Predicted Price":145.1126751152,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0748499866
+    },
+    {
+        "Date":"2025-06-02",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.033477284,
+        "Predicted Price":0.0333754206,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-06-02",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8808000041,
+        "Predicted Price":0.8758274499,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0729099863,
+        "Total Equity":1000.0729099863
+    },
+    {
+        "Date":"2025-06-02",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7425399967,
+        "Predicted Price":0.7380846885,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0593700582
+    },
+    {
+        "Date":"2025-06-02",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.8150024414,
+        "Predicted Price":143.203040466,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0729099863
+    },
+    {
+        "Date":"2025-06-03",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0333474502,
+        "Predicted Price":0.0333517878,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-06-03",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8730999379,
+        "Predicted Price":0.8777625031,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0806100525,
+        "Total Equity":1000.0806100525
+    },
+    {
+        "Date":"2025-06-03",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7376399957,
+        "Predicted Price":0.739818296,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0670701244
+    },
+    {
+        "Date":"2025-06-03",
+        "Symbol":"USDJPY=X",
+        "Actual Price":142.4519958496,
+        "Predicted Price":143.2389140326,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0806100525
+    },
+    {
+        "Date":"2025-06-04",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.033371266,
+        "Predicted Price":0.033222071,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-06-04",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8783900198,
+        "Predicted Price":0.8700841211,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0753199706,
+        "Total Equity":1000.0753199706
+    },
+    {
+        "Date":"2025-06-04",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7390200096,
+        "Predicted Price":0.7349298469,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0617800425
+    },
+    {
+        "Date":"2025-06-04",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.8370056152,
+        "Predicted Price":141.8813661291,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0753199706
+    },
+    {
+        "Date":"2025-06-05",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0333979018,
+        "Predicted Price":0.0332453814,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-06-05",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8755000389,
+        "Predicted Price":0.8753518736,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0782099515,
+        "Total Equity":1000.0782099515
+    },
+    {
+        "Date":"2025-06-05",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7378899987,
+        "Predicted Price":0.7363036858,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0646700234
+    },
+    {
+        "Date":"2025-06-05",
+        "Symbol":"USDJPY=X",
+        "Actual Price":142.7319946289,
+        "Predicted Price":143.2610684263,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0782099515
+    },
+    {
+        "Date":"2025-06-06",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0333942249,
+        "Predicted Price":0.0332715424,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-06-06",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8730700415,
+        "Predicted Price":0.8724706241,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0806399489,
+        "Total Equity":1000.0806399489
+    },
+    {
+        "Date":"2025-06-06",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7364000164,
+        "Predicted Price":0.7351781056,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0671000208
+    },
+    {
+        "Date":"2025-06-06",
+        "Symbol":"USDJPY=X",
+        "Actual Price":143.5420074463,
+        "Predicted Price":142.1615827653,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0806399489
+    },
+    {
+        "Date":"2025-06-09",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0334250294,
+        "Predicted Price":0.0332676277,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-06-09",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8765900235,
+        "Predicted Price":0.8700482709,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0771199669,
+        "Total Equity":1000.0771199669
+    },
+    {
+        "Date":"2025-06-09",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.738650001,
+        "Predicted Price":0.7336942067,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0635800387
+    },
+    {
+        "Date":"2025-06-09",
+        "Symbol":"USDJPY=X",
+        "Actual Price":144.6909942627,
+        "Predicted Price":142.9694962287,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0771199669
+    },
+    {
+        "Date":"2025-06-10",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.033429388,
+        "Predicted Price":0.033298111,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-06-10",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8750400301,
+        "Predicted Price":0.8735507965,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0786699603,
+        "Total Equity":1000.0786699603
+    },
+    {
+        "Date":"2025-06-10",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7376399957,
+        "Predicted Price":0.7359354847,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0651300322
+    },
+    {
+        "Date":"2025-06-10",
+        "Symbol":"USDJPY=X",
+        "Actual Price":144.5399932861,
+        "Predicted Price":144.1146848576,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0786699603
+    },
+    {
+        "Date":"2025-06-11",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0334572345,
+        "Predicted Price":0.0333022226,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-06-11",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8743199835,
+        "Predicted Price":0.872001306,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0793900069,
+        "Total Equity":1000.0793900069
+    },
+    {
+        "Date":"2025-06-11",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7402900018,
+        "Predicted Price":0.7349275875,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0658500787
+    },
+    {
+        "Date":"2025-06-11",
+        "Symbol":"USDJPY=X",
+        "Actual Price":144.8379974365,
+        "Predicted Price":143.9651495875,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0793900069
+    },
+    {
+        "Date":"2025-06-12",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.033548601,
+        "Predicted Price":0.0333297675,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-06-12",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8688600167,
+        "Predicted Price":0.8712835441,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0848499737,
+        "Total Equity":1000.0848499737
+    },
+    {
+        "Date":"2025-06-12",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7370599905,
+        "Predicted Price":0.7375740197,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0713100456
+    },
+    {
+        "Date":"2025-06-12",
+        "Symbol":"USDJPY=X",
+        "Actual Price":144.2030029297,
+        "Predicted Price":144.2635560993,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0848499737
+    },
+    {
+        "Date":"2025-06-13",
+        "Symbol":"TWDUSD=X",
+        "Actual Price":0.0338693745,
+        "Predicted Price":0.0334206457,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":999.9996359032
+    },
+    {
+        "Date":"2025-06-13",
+        "Symbol":"USDEUR=X",
+        "Actual Price":0.8654000225,
+        "Predicted Price":0.8658421538,
+        "Action":"HOLD",
+        "Position Status":"SHORT",
+        "Floating PnL":0.0883099679,
+        "Total Equity":1000.0883099679
+    },
+    {
+        "Date":"2025-06-13",
+        "Symbol":"USDGBP=X",
+        "Actual Price":0.7338000108,
+        "Predicted Price":0.7343638031,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0747700398
+    },
+    {
+        "Date":"2025-06-13",
+        "Symbol":"USDJPY=X",
+        "Actual Price":144.0670013428,
+        "Predicted Price":143.6333582429,
+        "Action":"HOLD",
+        "Position Status":"FLAT",
+        "Floating PnL":0.0,
+        "Total Equity":1000.0883099679
+    }
+]
