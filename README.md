@@ -9,6 +9,7 @@
   * **AI Model:** Utilizes a hybrid Transformer, GRU, and Attention Mechanism architecture to predict the daily price movements (log returns) of currency pairs.
 
   * **Backtesting Engine:** Simulates trading for USD/JPY, USD/EUR, and USD/GBP over a 90-day period, incorporating essential concepts like leverage, floating PnL, and stop-loss.
+  * **Interactive GUI Dashboard:** A user-friendly interface built with Streamlit to manage model training, simulation, and results analysis.
 
 
 **2. Directory Structure**
@@ -16,23 +17,23 @@
 ```text
 Group_13_BRich Forex trader/
 │
-├── .ipynb_checkpoints/         # (Jupyter Notebook checkpoints, can be ignored)
+├── BRich_APP/                  # GUI Application Files
+│   ├── BRich_GUI.py            # [GUI] Main Streamlit application script
+│   ├── requirements.txt        # Python dependencies for the GUI
+│   ├── fx_background.png       # Background image
+│   └── ... (Other image assets)
 │
-├── BRich_Training_outputs/     # [IMPORTANT] All output files from training and simulation are saved here.
-│   ├── best-model.ckpt             # The trained AI model weights.
-│   ├── equity_curve.json           # [GUI CORE] Raw data for the equity curve chart.
-│   ├── simulation_details.json     # [GUI CORE] Detailed daily trading records.
-│   ├── equity_curve.png              # Generated equity curve chart image.
-│   ├── trading_simulation_analysis.png # Generated trade analysis chart image.
-│   ├── training_history.png        # Generated model training history image.
-│   └── ... (and other helper/log files)
+├── Training_outputs/     # [IMPORTANT] All training and simulation outputs are saved here
+│   ├── best-model.ckpt         # Trained AI model weights 
+│   ├── equity_curve.json       # [GUI CORE] Raw data for the equity curve chart 
+│   ├── simulation_details.csv  # [GUI CORE] Detailed daily simulation records 
+│   ├── trading_log.csv         # [GUI CORE] Trade logs
+│   └── ... (Other .pkl) 
 │
-├── tb_logs/                      # (TensorBoard logs, can be ignored for evaluation).
-│
-├── Final_predicted_simulation.ipynb  # Simulation script (Jupyter Notebook version).
-├── Final_predicted_simulation.py     # [Executable] The main script for running backtest simulations.
-├── Final_train.ipynb                 # Training script (Jupyter Notebook version).
-└── Final_train.py                    # [Executable] The main script for training the AI model.
+├── Final_simulate.py           # [Executable] Main script for running backtest simulations
+├── Final_train.py              # [Executable] Main script for training the AI model
+├── requirements.txt            # Python dependencies for the train & simulate
+└── ... (Other notebooks and log files)
 ```
 
 
@@ -44,9 +45,9 @@ Prerequisites: Python 3.9.21+ and pip.
 
 Install Dependencies: Create a requirements.txt file with the content below and run the command:
 
-pip install -r requirements.txt
+**pip install -r requirements.txt**
 
-**requirements.txt content**
+requirements.txt content
 
 * numpy
 
@@ -78,6 +79,21 @@ pip install -r requirements.txt
 * **B) Run in TA Evaluation Mode (with external Excel files):** Place the TA-provided **fx_data.xlsx** and **fake_fx_data.xlsx** in the project's root folder. The script will automatically detect them and run in TA mode.
 
 * **(Optional) Re-train the AI Model:** To train the model from scratch, run the training script. This will overwrite the existing best-model.ckpt.
+
+* The GUI provides the easiest way to interact with the project. You can perform all operations from the web interface.
+
+Launch the Application:
+In your terminal, run the following command:
+
+**streamlit run BRich_APP/BRich_GUI.py**
+
+Use the Interface:
+Your browser will automatically open the dashboard. Use the sidebar to navigate between pages:
+
+* **Forex Analysis:** Download market data, train new models, and view training charts.
+* **Trading Simulation:** Run back-tests with your trained model and view detailed equity curves and trade analysis charts.
+* **Summary:** Review consolidated performance metrics like ROI, MAE, and MAPE for both training and simulation.
+
 
 
 
