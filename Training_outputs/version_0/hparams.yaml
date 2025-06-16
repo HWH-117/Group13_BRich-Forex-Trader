@@ -1,0 +1,4 @@
+lr: 0.0003
+n_features: 28
+n_symbols: 4
+seq_len: 60
