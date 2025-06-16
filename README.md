@@ -1,5 +1,6 @@
+![{A4C07259-B6C6-4F02-B398-B4B4BD1749C8}](https://github.com/user-attachments/assets/69d66efc-d544-4ff9-b1cf-d33c800493c5)
 
-## BRich AI Forex Simulator![trading_simulation_analysis](https://github.com/user-attachments/assets/2454d26a-2853-4103-9938-1491c998d9f0)
+## BRich AI Forex Simulator!
 
 **1. Project Overview**
 
