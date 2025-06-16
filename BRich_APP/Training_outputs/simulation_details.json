@@ -1,0 +1,3602 @@
+[
+    {
+        "date": "2025-02-05",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9640599935596083,
+        "predicted_price": 0.9692021860628893,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-05",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.8013999982039547,
+        "predicted_price": 0.8050579615782804,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-05",
+        "symbol": "USDJPY=X",
+        "actual_price": 154.13299560546875,
+        "predicted_price": 155.40433802326052,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-06",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9614600296348459,
+        "predicted_price": 0.9649574147078914,
+        "floating_pnl": -2.5999639247623607,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-02-06",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7997399984688969,
+        "predicted_price": 0.8020649095393982,
+        "floating_pnl": -1.6599997350578155,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-02-06",
+        "symbol": "USDJPY=X",
+        "actual_price": 152.6060028076172,
+        "predicted_price": 154.25919674770697,
+        "floating_pnl": 0.0,
+        "realized_pnl": -1526.9927978515625,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-07",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9628600333923388,
+        "predicted_price": 0.9623539052793569,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.20004359022363083,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-07",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.8040199617897751,
+        "predicted_price": 0.8004026484396858,
+        "floating_pnl": 0.0,
+        "realized_pnl": 6.899926906698495,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-07",
+        "symbol": "USDJPY=X",
+        "actual_price": 151.1929931640625,
+        "predicted_price": 152.7307480670615,
+        "floating_pnl": 0.0,
+        "realized_pnl": -1413.0096435546875,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-10",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9697800384300089,
+        "predicted_price": 0.9637549346276433,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-02-10",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.806999957478764,
+        "predicted_price": 0.8046859886906389,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-02-10",
+        "symbol": "USDJPY=X",
+        "actual_price": 151.8459930419922,
+        "predicted_price": 151.31639848918755,
+        "floating_pnl": 0.0,
+        "realized_pnl": 652.9998779296875,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-11",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9707300059503242,
+        "predicted_price": 0.970681810608003,
+        "floating_pnl": -0.9499675203152869,
+        "realized_pnl": 0.0,
+        "position_size": -1000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-02-11",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.8090200158146742,
+        "predicted_price": 0.8076689132683846,
+        "floating_pnl": -2.0200583359102353,
+        "realized_pnl": 0.0,
+        "position_size": -1000.0,
+        "action": "ADD_SHORT"
+    },
+    {
+        "date": "2025-02-11",
+        "symbol": "USDJPY=X",
+        "actual_price": 151.75900268554688,
+        "predicted_price": 151.96988846804433,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-12",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.96479001696426,
+        "predicted_price": 0.97163296959704,
+        "floating_pnl": 0.0,
+        "realized_pnl": 4.990021465748895,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-12",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.8031100355246079,
+        "predicted_price": 0.8096909077814727,
+        "floating_pnl": 0.0,
+        "realized_pnl": 9.799902244222336,
+        "position_size": -2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-12",
+        "symbol": "USDJPY=X",
+        "actual_price": 152.73899841308594,
+        "predicted_price": 151.88264466086648,
+        "floating_pnl": 0.0,
+        "realized_pnl": 979.9957275390625,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-13",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9622799380092527,
+        "predicted_price": 0.9656870186484198,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-13",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.8031700128700868,
+        "predicted_price": 0.8037761073978006,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-13",
+        "symbol": "USDJPY=X",
+        "actual_price": 154.2550048828125,
+        "predicted_price": 152.86326812046636,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-02-14",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9558699928713766,
+        "predicted_price": 0.9631736057945388,
+        "floating_pnl": 0.0,
+        "realized_pnl": -6.409945137876072,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-14",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7959599893044699,
+        "predicted_price": 0.803835898293466,
+        "floating_pnl": 0.0,
+        "realized_pnl": -7.210023565616952,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-14",
+        "symbol": "USDJPY=X",
+        "actual_price": 152.98899841308594,
+        "predicted_price": 154.38043232641968,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1266.0064697265625,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-17",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9533600038095268,
+        "predicted_price": 0.9567569984756472,
+        "floating_pnl": -2.509989061849849,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-02-17",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7946500472937865,
+        "predicted_price": 0.7966199453264509,
+        "floating_pnl": -1.3099420106833515,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-02-17",
+        "symbol": "USDJPY=X",
+        "actual_price": 152.0229949951172,
+        "predicted_price": 153.1132452196155,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-18",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9537099903999243,
+        "predicted_price": 0.954243860863665,
+        "floating_pnl": -1.8100158810547828,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-02-18",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7923000215533811,
+        "predicted_price": 0.7953089079421097,
+        "floating_pnl": -6.0099934914943365,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-02-18",
+        "symbol": "USDJPY=X",
+        "actual_price": 151.44400024414062,
+        "predicted_price": 152.14650007486014,
+        "floating_pnl": -578.9947509765625,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-02-19",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9570900364998189,
+        "predicted_price": 0.9545928819364657,
+        "floating_pnl": 0.0,
+        "realized_pnl": 8.33012241862885,
+        "position_size": 3000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-19",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7920299688158443,
+        "predicted_price": 0.7929567694312339,
+        "floating_pnl": -6.82015170410466,
+        "realized_pnl": 0.0,
+        "position_size": 3000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-02-19",
+        "symbol": "USDJPY=X",
+        "actual_price": 151.93099975585938,
+        "predicted_price": 151.5669594230546,
+        "floating_pnl": 0.0,
+        "realized_pnl": 395.0042724609375,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-20",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9595999714474496,
+        "predicted_price": 0.9579747188184337,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-02-20",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7946500472937865,
+        "predicted_price": 0.7926862134170675,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1.0400837297219745,
+        "position_size": 3000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-20",
+        "symbol": "USDJPY=X",
+        "actual_price": 151.22000122070312,
+        "predicted_price": 152.05432587150992,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-21",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9523299627292243,
+        "predicted_price": 0.9604849293837183,
+        "floating_pnl": 0.0,
+        "realized_pnl": 7.2700087182252515,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-21",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7892409826485884,
+        "predicted_price": 0.7953077646892442,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-21",
+        "symbol": "USDJPY=X",
+        "actual_price": 149.4080047607422,
+        "predicted_price": 151.34272320970356,
+        "floating_pnl": 0.0,
+        "realized_pnl": -1811.9964599609375,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-24",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9546700043553378,
+        "predicted_price": 0.9532066102228641,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-02-24",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7905200260924321,
+        "predicted_price": 0.7898934605625452,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1.2790434438436638,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-24",
+        "symbol": "USDJPY=X",
+        "actual_price": 149.38699340820312,
+        "predicted_price": 149.52918660127114,
+        "floating_pnl": -21.0113525390625,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-02-25",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9559000557453998,
+        "predicted_price": 0.9555480103336326,
+        "floating_pnl": -1.230051390062048,
+        "realized_pnl": 0.0,
+        "position_size": -1000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-02-25",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7925299732800333,
+        "predicted_price": 0.7911727987849354,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-02-25",
+        "symbol": "USDJPY=X",
+        "actual_price": 149.86399841308594,
+        "predicted_price": 149.5081260423337,
+        "floating_pnl": 0.0,
+        "realized_pnl": 932.9986572265625,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-26",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9502000112139941,
+        "predicted_price": 0.9567784159839943,
+        "floating_pnl": 0.0,
+        "realized_pnl": 4.469993141343664,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-26",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7889900042174234,
+        "predicted_price": 0.7931838535024739,
+        "floating_pnl": 0.0,
+        "realized_pnl": 3.5399690626098934,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-26",
+        "symbol": "USDJPY=X",
+        "actual_price": 149.0780029296875,
+        "predicted_price": 149.98542969257412,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-27",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9533999861796572,
+        "predicted_price": 0.9510717940741764,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-02-27",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7885000137704912,
+        "predicted_price": 0.7896401173163646,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-27",
+        "symbol": "USDJPY=X",
+        "actual_price": 148.83799743652344,
+        "predicted_price": 149.19872056441346,
+        "floating_pnl": -240.0054931640625,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-02-28",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9619900420375692,
+        "predicted_price": 0.9542727097167187,
+        "floating_pnl": 0.0,
+        "realized_pnl": -8.59005585791206,
+        "position_size": -1000.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-02-28",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.793720036590983,
+        "predicted_price": 0.7891482212514833,
+        "floating_pnl": 0.0,
+        "realized_pnl": 5.220022820491832,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-28",
+        "symbol": "USDJPY=X",
+        "actual_price": 150.01199340820312,
+        "predicted_price": 148.95841660837667,
+        "floating_pnl": 0.0,
+        "realized_pnl": 2107.9864501953125,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-03",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9602599336429264,
+        "predicted_price": 0.9628682550660838,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1.7301083946428264,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-03",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7934000108011104,
+        "predicted_price": 0.7943713338690337,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-03",
+        "symbol": "USDJPY=X",
+        "actual_price": 150.77099609375,
+        "predicted_price": 150.13333913515714,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-03-04",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9537400259928757,
+        "predicted_price": 0.961135734764483,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-04",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7873100228996006,
+        "predicted_price": 0.7940504849236538,
+        "floating_pnl": 0.0,
+        "realized_pnl": -6.08998790150983,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-04",
+        "symbol": "USDJPY=X",
+        "actual_price": 149.30499267578125,
+        "predicted_price": 150.8930373608613,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1466.00341796875,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-05",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9409999452581438,
+        "predicted_price": 0.9546098059793111,
+        "floating_pnl": 0.0,
+        "realized_pnl": -12.740080734731873,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-05",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7816000022361755,
+        "predicted_price": 0.7879555441005565,
+        "floating_pnl": 0.0,
+        "realized_pnl": -5.710020663425075,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-05",
+        "symbol": "USDJPY=X",
+        "actual_price": 149.7989959716797,
+        "predicted_price": 149.42587366101213,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-03-06",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9263600454577028,
+        "predicted_price": 0.941857715923133,
+        "floating_pnl": 0.0,
+        "realized_pnl": -14.639899800441004,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-06",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7756800324304701,
+        "predicted_price": 0.7822407619769765,
+        "floating_pnl": 0.0,
+        "realized_pnl": -5.919969805705416,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-06",
+        "symbol": "USDJPY=X",
+        "actual_price": 148.8979949951172,
+        "predicted_price": 149.92040313437332,
+        "floating_pnl": 0.0,
+        "realized_pnl": 901.0009765625,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-07",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9269600059229203,
+        "predicted_price": 0.927203746589935,
+        "floating_pnl": 0.5999604652174861,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-03-07",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.776077955950684,
+        "predicted_price": 0.7763153153615494,
+        "floating_pnl": 0.3979235202138387,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-03-07",
+        "symbol": "USDJPY=X",
+        "actual_price": 148.10800170898438,
+        "predicted_price": 149.01872889716205,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-10",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9207600088073948,
+        "predicted_price": 0.9278038028610287,
+        "floating_pnl": 0.0,
+        "realized_pnl": -5.600036650307949,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-10",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7732499965202585,
+        "predicted_price": 0.7767128537083849,
+        "floating_pnl": -2.4300359102116253,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-03-10",
+        "symbol": "USDJPY=X",
+        "actual_price": 147.60800170898438,
+        "predicted_price": 148.2280860030156,
+        "floating_pnl": -500.0,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-03-11",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9225599601264788,
+        "predicted_price": 0.9215979426898746,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1.7999513190839478,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-11",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7766699624294157,
+        "predicted_price": 0.7738822196788756,
+        "floating_pnl": 0.0,
+        "realized_pnl": 4.409895908102701,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-11",
+        "symbol": "USDJPY=X",
+        "actual_price": 147.06900024414062,
+        "predicted_price": 147.7276520603781,
+        "floating_pnl": 0.0,
+        "realized_pnl": -1578.0029296875,
+        "position_size": 2000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-12",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9162400182623066,
+        "predicted_price": 0.9233994890481587,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-12",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7725099938769114,
+        "predicted_price": 0.7773050799053031,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-12",
+        "symbol": "USDJPY=X",
+        "actual_price": 148.04200744628906,
+        "predicted_price": 147.18802081246386,
+        "floating_pnl": 0.0,
+        "realized_pnl": 973.0072021484375,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-13",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9185900030310835,
+        "predicted_price": 0.9170735086395341,
+        "floating_pnl": 0.0,
+        "realized_pnl": 2.3499847687769027,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-13",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7713500101928888,
+        "predicted_price": 0.7731417268430706,
+        "floating_pnl": -1.1599836840225919,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-03-13",
+        "symbol": "USDJPY=X",
+        "actual_price": 148.2790069580078,
+        "predicted_price": 148.16183008020116,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-03-14",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9211800264693777,
+        "predicted_price": 0.9194254196540915,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-03-14",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7717000530620325,
+        "predicted_price": 0.77198065148934,
+        "floating_pnl": -0.4598979457353103,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-03-14",
+        "symbol": "USDJPY=X",
+        "actual_price": 147.94900512695312,
+        "predicted_price": 148.39910869318803,
+        "floating_pnl": 0.0,
+        "realized_pnl": 330.0018310546875,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-17",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.919009955767361,
+        "predicted_price": 0.922017385570465,
+        "floating_pnl": 0.0,
+        "realized_pnl": 2.170070702016691,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-17",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7733599927131684,
+        "predicted_price": 0.7723310959929037,
+        "floating_pnl": 0.0,
+        "realized_pnl": 2.859981356536423,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-17",
+        "symbol": "USDJPY=X",
+        "actual_price": 148.59800720214844,
+        "predicted_price": 148.06896981660037,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-03-18",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9158199930587011,
+        "predicted_price": 0.9198455551421677,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-18",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7701000313874723,
+        "predicted_price": 0.7739927703859271,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-18",
+        "symbol": "USDJPY=X",
+        "actual_price": 149.37899780273438,
+        "predicted_price": 148.71854405055572,
+        "floating_pnl": 0.0,
+        "realized_pnl": -780.9906005859375,
+        "position_size": -1000.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-03-19",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9141200276395564,
+        "predicted_price": 0.9166528307222637,
+        "floating_pnl": -1.6999654191447444,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-03-19",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7692000440873362,
+        "predicted_price": 0.7707303803666378,
+        "floating_pnl": -0.8999873001360736,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-03-19",
+        "symbol": "USDJPY=X",
+        "actual_price": 149.45199584960938,
+        "predicted_price": 149.50009025916748,
+        "floating_pnl": 0.0,
+        "realized_pnl": -72.998046875,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-20",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9164300013153335,
+        "predicted_price": 0.9149514096955188,
+        "floating_pnl": 0.0,
+        "realized_pnl": 2.919981932409499,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-20",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.768599999633503,
+        "predicted_price": 0.769830235704751,
+        "floating_pnl": -2.1000762078027257,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-03-20",
+        "symbol": "USDJPY=X",
+        "actual_price": 148.49000549316406,
+        "predicted_price": 149.5732247931046,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-21",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9210900048774264,
+        "predicted_price": 0.9172631908257319,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-03-21",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7711300566235758,
+        "predicted_price": 0.769229854029829,
+        "floating_pnl": 0.0,
+        "realized_pnl": 5.490094762415576,
+        "position_size": 3000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-21",
+        "symbol": "USDJPY=X",
+        "actual_price": 148.5959930419922,
+        "predicted_price": 148.61050843570746,
+        "floating_pnl": 105.987548828125,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-03-24",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9228700277765065,
+        "predicted_price": 0.9219270456007654,
+        "floating_pnl": -1.7800228990800804,
+        "realized_pnl": 0.0,
+        "position_size": -1000.0,
+        "action": "ADD_SHORT"
+    },
+    {
+        "date": "2025-03-24",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7737199980409368,
+        "predicted_price": 0.7717618452778902,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-03-24",
+        "symbol": "USDJPY=X",
+        "actual_price": 149.677001953125,
+        "predicted_price": 148.71671883692477,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1186.9964599609375,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-25",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9256199952089286,
+        "predicted_price": 0.9237089682648554,
+        "floating_pnl": -7.279957763924205,
+        "realized_pnl": 0.0,
+        "position_size": -2000.0,
+        "action": "ADD_SHORT"
+    },
+    {
+        "date": "2025-03-25",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7737399804107074,
+        "predicted_price": 0.7743538228206813,
+        "floating_pnl": 0.0,
+        "realized_pnl": -0.01998236977052148,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-25",
+        "symbol": "USDJPY=X",
+        "actual_price": 150.7740020751953,
+        "predicted_price": 149.79885873039973,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-03-26",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9269999557971975,
+        "predicted_price": 0.926461720738359,
+        "floating_pnl": 0.0,
+        "realized_pnl": -11.419839528730936,
+        "position_size": -3000.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-03-26",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7725999973843288,
+        "predicted_price": 0.7743740678468837,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-26",
+        "symbol": "USDJPY=X",
+        "actual_price": 149.9499969482422,
+        "predicted_price": 150.89683676695822,
+        "floating_pnl": 0.0,
+        "realized_pnl": 824.005126953125,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-27",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9309200414511268,
+        "predicted_price": 0.9278428990559451,
+        "floating_pnl": -3.920085653929317,
+        "realized_pnl": 0.0,
+        "position_size": -1000.0,
+        "action": "ADD_SHORT"
+    },
+    {
+        "date": "2025-03-27",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.77653997275642,
+        "predicted_price": 0.7732336431620594,
+        "floating_pnl": 0.0,
+        "realized_pnl": 3.93997537209112,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-27",
+        "symbol": "USDJPY=X",
+        "actual_price": 150.47300720214844,
+        "predicted_price": 150.07227689242768,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-03-28",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9258400467875139,
+        "predicted_price": 0.9317658499110679,
+        "floating_pnl": 0.0,
+        "realized_pnl": 6.239903673296521,
+        "position_size": -2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-28",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7720799742511399,
+        "predicted_price": 0.7771770406161322,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-28",
+        "symbol": "USDJPY=X",
+        "actual_price": 150.8470001220703,
+        "predicted_price": 150.59574842906818,
+        "floating_pnl": -373.992919921875,
+        "realized_pnl": 0.0,
+        "position_size": -1000.0,
+        "action": "ADD_SHORT"
+    },
+    {
+        "date": "2025-03-31",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9238800280932566,
+        "predicted_price": 0.9266825230435165,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-31",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7728999707004797,
+        "predicted_price": 0.7727142967502598,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.8199964493397216,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-31",
+        "symbol": "USDJPY=X",
+        "actual_price": 149.61700439453125,
+        "predicted_price": 150.97016395915733,
+        "floating_pnl": 0.0,
+        "realized_pnl": 2085.99853515625,
+        "position_size": -2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-01",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9243100269019953,
+        "predicted_price": 0.9247223937214036,
+        "floating_pnl": 0.4299988087386186,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-04-01",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7739400036996597,
+        "predicted_price": 0.7735361188265023,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-01",
+        "symbol": "USDJPY=X",
+        "actual_price": 149.91299438476562,
+        "predicted_price": 149.73918746068384,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-02",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9262700314288425,
+        "predicted_price": 0.9251533343009025,
+        "floating_pnl": 0.0,
+        "realized_pnl": 2.390003335585811,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-02",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7738099982141302,
+        "predicted_price": 0.7745775142517382,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.13000548552943858,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-02",
+        "symbol": "USDJPY=X",
+        "actual_price": 149.7830047607422,
+        "predicted_price": 150.03530528683314,
+        "floating_pnl": 0.0,
+        "realized_pnl": 129.9896240234375,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-03",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9166999968090487,
+        "predicted_price": 0.9271152954372041,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-03",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7664999823648337,
+        "predicted_price": 0.7744478726611244,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-03",
+        "symbol": "USDJPY=X",
+        "actual_price": 147.8719940185547,
+        "predicted_price": 149.90507257971598,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-04",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9054900150731355,
+        "predicted_price": 0.9175352587556297,
+        "floating_pnl": 0.0,
+        "realized_pnl": -11.209981735913143,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-04",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7640199986046807,
+        "predicted_price": 0.7671312861839679,
+        "floating_pnl": -2.479983760153015,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-04-04",
+        "symbol": "USDJPY=X",
+        "actual_price": 146.2310028076172,
+        "predicted_price": 147.9922023803555,
+        "floating_pnl": 0.0,
+        "realized_pnl": -1640.9912109375,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-07",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9103699992967609,
+        "predicted_price": 0.9063147590477144,
+        "floating_pnl": 0.0,
+        "realized_pnl": 4.879984223625344,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-07",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.77454999164843,
+        "predicted_price": 0.7646493926757013,
+        "floating_pnl": 0.0,
+        "realized_pnl": 18.58000232734547,
+        "position_size": 2000.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-07",
+        "symbol": "USDJPY=X",
+        "actual_price": 145.43299865722656,
+        "predicted_price": 146.34966890731394,
+        "floating_pnl": 0.0,
+        "realized_pnl": -798.004150390625,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-08",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9161400535512106,
+        "predicted_price": 0.9111995856672618,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-08",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7852399811698347,
+        "predicted_price": 0.775189224395961,
+        "floating_pnl": 0.0,
+        "realized_pnl": -10.689989521404764,
+        "position_size": -1000.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-08",
+        "symbol": "USDJPY=X",
+        "actual_price": 147.78900146484375,
+        "predicted_price": 145.55079093748236,
+        "floating_pnl": 0.0,
+        "realized_pnl": 2356.0028076171875,
+        "position_size": 1000.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-09",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9107099896385478,
+        "predicted_price": 0.9169748885638683,
+        "floating_pnl": 0.0,
+        "realized_pnl": 5.430063912662875,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-09",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7817999574085974,
+        "predicted_price": 0.7858895872493228,
+        "floating_pnl": 0.0,
+        "realized_pnl": 3.4400237612373097,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-09",
+        "symbol": "USDJPY=X",
+        "actual_price": 145.84500122070312,
+        "predicted_price": 147.90846855210697,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1944.000244140625,
+        "position_size": -1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-10",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9130700178595219,
+        "predicted_price": 0.9115397937198875,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-10",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7796999729708729,
+        "predicted_price": 0.7824475735277043,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-10",
+        "symbol": "USDJPY=X",
+        "actual_price": 147.3990020751953,
+        "predicted_price": 145.96282901774538,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1554.0008544921875,
+        "position_size": 1000.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-11",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8882700204441897,
+        "predicted_price": 0.9139009973307072,
+        "floating_pnl": 0.0,
+        "realized_pnl": 24.799997415332232,
+        "position_size": -1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-11",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7697000204247504,
+        "predicted_price": 0.7803458949574116,
+        "floating_pnl": 0.0,
+        "realized_pnl": -9.999952546122515,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-11",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.7469940185547,
+        "predicted_price": 147.51798628954663,
+        "floating_pnl": 0.0,
+        "realized_pnl": 3652.008056640625,
+        "position_size": -1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-14",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8815899669974211,
+        "predicted_price": 0.8890783472006596,
+        "floating_pnl": 0.0,
+        "realized_pnl": -6.680053446768586,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-14",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7642199704410062,
+        "predicted_price": 0.7703385801147246,
+        "floating_pnl": 0.0,
+        "realized_pnl": -5.480049983744184,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-14",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.6959991455078,
+        "predicted_price": 143.86298602499608,
+        "floating_pnl": -50.994873046875,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-04-15",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8818600305306661,
+        "predicted_price": 0.8823928238453754,
+        "floating_pnl": 0.27006353324499077,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-04-15",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7590400016214843,
+        "predicted_price": 0.7648545995695467,
+        "floating_pnl": 0.0,
+        "realized_pnl": -5.179968819521874,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-15",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.2209930419922,
+        "predicted_price": 143.8119575036569,
+        "floating_pnl": -1001.007080078125,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-04-16",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8855300021746061,
+        "predicted_price": 0.8826625665240682,
+        "floating_pnl": 0.0,
+        "realized_pnl": 7.610006821124893,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-16",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7558000385260697,
+        "predicted_price": 0.7596700617282464,
+        "floating_pnl": -3.239963095414633,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-04-16",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.18099975585938,
+        "predicted_price": 143.33638880404848,
+        "floating_pnl": -1120.986938476591,
+        "realized_pnl": 0.0,
+        "position_size": 3000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-04-17",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8774399939081543,
+        "predicted_price": 0.8863348515580252,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-17",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.755630040152322,
+        "predicted_price": 0.756426486002808,
+        "floating_pnl": -3.579959842909819,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-04-17",
+        "symbol": "USDJPY=X",
+        "actual_price": 141.92799377441406,
+        "predicted_price": 143.2962029483382,
+        "floating_pnl": 0.0,
+        "realized_pnl": -4880.004882812528,
+        "position_size": 3000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-22",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.868600014144273,
+        "predicted_price": 0.8782363060129422,
+        "floating_pnl": 0.0,
+        "realized_pnl": -8.839979763881288,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-22",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7473999707761776,
+        "predicted_price": 0.7562552448196608,
+        "floating_pnl": 0.0,
+        "realized_pnl": -28.270167971343184,
+        "position_size": 3000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-22",
+        "symbol": "USDJPY=X",
+        "actual_price": 140.87600708007812,
+        "predicted_price": 142.0421012924921,
+        "floating_pnl": 0.0,
+        "realized_pnl": -1051.9866943359375,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-23",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8809600298084849,
+        "predicted_price": 0.8693884072508512,
+        "floating_pnl": 0.0,
+        "realized_pnl": 12.360015664211854,
+        "position_size": 1000.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-23",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.753400000987935,
+        "predicted_price": 0.7480178329893294,
+        "floating_pnl": 0.0,
+        "realized_pnl": 6.0000302117574345,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-23",
+        "symbol": "USDJPY=X",
+        "actual_price": 142.68800354003906,
+        "predicted_price": 140.98939927310028,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1811.9964599609375,
+        "position_size": 1000.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-24",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8828200287958642,
+        "predicted_price": 0.8817599425722674,
+        "floating_pnl": -1.8599989873793188,
+        "realized_pnl": 0.0,
+        "position_size": -1000.0,
+        "action": "ADD_SHORT"
+    },
+    {
+        "date": "2025-04-24",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7538900079787201,
+        "predicted_price": 0.754022639332491,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-04-24",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.22300720214844,
+        "predicted_price": 142.80304839668906,
+        "floating_pnl": -535.003662109375,
+        "realized_pnl": 0.0,
+        "position_size": -1000.0,
+        "action": "ADD_SHORT"
+    },
+    {
+        "date": "2025-04-25",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.879359988058008,
+        "predicted_price": 0.8836213596948018,
+        "floating_pnl": 0.0,
+        "realized_pnl": 5.0600824883331175,
+        "position_size": -2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-25",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.750399974093934,
+        "predicted_price": 0.7545127923405671,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-25",
+        "symbol": "USDJPY=X",
+        "actual_price": 142.87899780273438,
+        "predicted_price": 143.33858727410524,
+        "floating_pnl": 0.0,
+        "realized_pnl": 153.01513671875,
+        "position_size": -2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-28",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8815899669974211,
+        "predicted_price": 0.8801575971219069,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-28",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7524399829538233,
+        "predicted_price": 0.7510191063222849,
+        "floating_pnl": 0.0,
+        "realized_pnl": 2.0400088598893085,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-28",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.84100341796875,
+        "predicted_price": 142.99437244148382,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-29",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8764900059901681,
+        "predicted_price": 0.8823885981991961,
+        "floating_pnl": 0.0,
+        "realized_pnl": 5.099961007252962,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-29",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7442599958548752,
+        "predicted_price": 0.7530596442732927,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-29",
+        "symbol": "USDJPY=X",
+        "actual_price": 142.17799377441406,
+        "predicted_price": 143.95714890908997,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1663.0096435546875,
+        "position_size": -1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-30",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8780199635629284,
+        "predicted_price": 0.87728469487422,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-30",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7456679635797646,
+        "predicted_price": 0.7448727722060987,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1.4079677248893807,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-30",
+        "symbol": "USDJPY=X",
+        "actual_price": 142.2989959716797,
+        "predicted_price": 142.29281361739913,
+        "floating_pnl": 0.0,
+        "realized_pnl": 121.002197265625,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-01",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.883010067143059,
+        "predicted_price": 0.8788169992628639,
+        "floating_pnl": 0.0,
+        "realized_pnl": -4.990103580130523,
+        "position_size": -1000.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-01",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7505300211722165,
+        "predicted_price": 0.7462822369463343,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-01",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.00900268554688,
+        "predicted_price": 142.41401751793626,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-02",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8852300344336701,
+        "predicted_price": 0.8838129797104841,
+        "floating_pnl": -2.2199672906111356,
+        "realized_pnl": 0.0,
+        "position_size": -1000.0,
+        "action": "ADD_SHORT"
+    },
+    {
+        "date": "2025-05-02",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7526500099143775,
+        "predicted_price": 0.7511486517297585,
+        "floating_pnl": -2.1199887421610164,
+        "realized_pnl": 0.0,
+        "position_size": -1000.0,
+        "action": "ADD_SHORT"
+    },
+    {
+        "date": "2025-05-02",
+        "symbol": "USDJPY=X",
+        "actual_price": 145.447998046875,
+        "predicted_price": 143.12478088434978,
+        "floating_pnl": 0.0,
+        "realized_pnl": -2438.995361328125,
+        "position_size": -1000.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-05",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8831400279788129,
+        "predicted_price": 0.8860361303445137,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1.9600456191033455,
+        "position_size": -2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-05",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7534699726523157,
+        "predicted_price": 0.7532704840007916,
+        "floating_pnl": -3.7599142180375633,
+        "realized_pnl": 0.0,
+        "position_size": -2000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-05-05",
+        "symbol": "USDJPY=X",
+        "actual_price": 144.62399291992188,
+        "predicted_price": 145.56592625005715,
+        "floating_pnl": 0.0,
+        "realized_pnl": 824.005126953125,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-06",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8839099792188733,
+        "predicted_price": 0.8839446986062596,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-05-06",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7523000300880265,
+        "predicted_price": 0.7540905025719958,
+        "floating_pnl": 0.0,
+        "realized_pnl": -1.4200290894590406,
+        "position_size": -2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-06",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.6540069580078,
+        "predicted_price": 144.74129852087887,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-07",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8816199864781824,
+        "predicted_price": 0.8847159133230389,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-07",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7487300270569349,
+        "predicted_price": 0.7529191897841295,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-07",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.03500366210938,
+        "predicted_price": 143.77046822052054,
+        "floating_pnl": -619.0032958984375,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-05-08",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8844699991027308,
+        "predicted_price": 0.882424813450057,
+        "floating_pnl": 0.0,
+        "realized_pnl": 2.850012624548426,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-08",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7522100396979936,
+        "predicted_price": 0.7493465908726834,
+        "floating_pnl": 0.0,
+        "realized_pnl": 3.480012641058683,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-08",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.84800720214844,
+        "predicted_price": 143.15096402775555,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1007.0037841796875,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-09",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8909299538508793,
+        "predicted_price": 0.8852787366996254,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-09",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.755550003328034,
+        "predicted_price": 0.7528304227661854,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-09",
+        "symbol": "USDJPY=X",
+        "actual_price": 146.01499938964844,
+        "predicted_price": 143.9646654289015,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-12",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8905000047770143,
+        "predicted_price": 0.8917459054823003,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.42994907386495473,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-12",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7524999883383514,
+        "predicted_price": 0.7561742156943372,
+        "floating_pnl": 0.0,
+        "realized_pnl": 3.0500149896826034,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-12",
+        "symbol": "USDJPY=X",
+        "actual_price": 145.81199645996094,
+        "predicted_price": 146.1333636325577,
+        "floating_pnl": 0.0,
+        "realized_pnl": 203.0029296875,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-13",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.9012599857429028,
+        "predicted_price": 0.8913164566633756,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-13",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7588500076304672,
+        "predicted_price": 0.7531226284662504,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-13",
+        "symbol": "USDJPY=X",
+        "actual_price": 148.30999755859375,
+        "predicted_price": 145.93021591708862,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-14",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.894010044627989,
+        "predicted_price": 0.9020866380943078,
+        "floating_pnl": 0.0,
+        "realized_pnl": 7.249941114913727,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-14",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.751630004063418,
+        "predicted_price": 0.7594786382662658,
+        "floating_pnl": 0.0,
+        "realized_pnl": 7.220003567049216,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-14",
+        "symbol": "USDJPY=X",
+        "actual_price": 147.5279998779297,
+        "predicted_price": 148.43024320943942,
+        "floating_pnl": 0.0,
+        "realized_pnl": 781.9976806640625,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-15",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8942999758104486,
+        "predicted_price": 0.8948309343277032,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-15",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7539499738140911,
+        "predicted_price": 0.7522535518117819,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-15",
+        "symbol": "USDJPY=X",
+        "actual_price": 146.64999389648438,
+        "predicted_price": 147.64776812783532,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-16",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8934399760062507,
+        "predicted_price": 0.8951212542741591,
+        "floating_pnl": -0.8599998041979307,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-05-16",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7514900157077622,
+        "predicted_price": 0.7545756485883949,
+        "floating_pnl": 0.0,
+        "realized_pnl": 2.45995810632893,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-16",
+        "symbol": "USDJPY=X",
+        "actual_price": 145.61300659179688,
+        "predicted_price": 146.76921467709676,
+        "floating_pnl": 0.0,
+        "realized_pnl": -1036.9873046875,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-19",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8938500054076777,
+        "predicted_price": 0.8942603281044237,
+        "floating_pnl": -0.0399410013440793,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-05-19",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.751568992625607,
+        "predicted_price": 0.7521132701062071,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-19",
+        "symbol": "USDJPY=X",
+        "actual_price": 145.29800415039062,
+        "predicted_price": 145.73152976897467,
+        "floating_pnl": -315.00244140625,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-05-20",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8902000618892522,
+        "predicted_price": 0.8946704219493111,
+        "floating_pnl": -7.339828038195106,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-05-20",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7485000078074635,
+        "predicted_price": 0.7521923195295422,
+        "floating_pnl": -3.0689848181434387,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-05-20",
+        "symbol": "USDJPY=X",
+        "actual_price": 144.97500610351562,
+        "predicted_price": 145.41635333699742,
+        "floating_pnl": -960.99853515625,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-05-21",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8859000553700207,
+        "predicted_price": 0.8910165412447325,
+        "floating_pnl": 0.0,
+        "realized_pnl": -20.239847595889373,
+        "position_size": 3000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-21",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.746390018175255,
+        "predicted_price": 0.7491200585828841,
+        "floating_pnl": 0.0,
+        "realized_pnl": -7.288964082560412,
+        "position_size": 2000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-21",
+        "symbol": "USDJPY=X",
+        "actual_price": 144.3280029296875,
+        "predicted_price": 145.093090712992,
+        "floating_pnl": 0.0,
+        "realized_pnl": -2902.008056640653,
+        "position_size": 3000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-22",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8825200370025572,
+        "predicted_price": 0.8867127159292186,
+        "floating_pnl": -3.3800183674634887,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-05-22",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7452099655458649,
+        "predicted_price": 0.7470080786005554,
+        "floating_pnl": -1.180052629390027,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-05-22",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.7550048828125,
+        "predicted_price": 144.44564744751077,
+        "floating_pnl": -572.998046875,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-05-23",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8863799855788779,
+        "predicted_price": 0.8833289392574071,
+        "floating_pnl": 0.0,
+        "realized_pnl": 4.339878785177831,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-23",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7451999692631734,
+        "predicted_price": 0.7458261218587898,
+        "floating_pnl": -1.200045194772903,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-05-23",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.85800170898438,
+        "predicted_price": 143.87218314290828,
+        "floating_pnl": -367.00439453125,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-05-26",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8792900279092506,
+        "predicted_price": 0.8871914900527135,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-26",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7387800409276319,
+        "predicted_price": 0.745814921218651,
+        "floating_pnl": 0.0,
+        "realized_pnl": -20.4598302013973,
+        "position_size": 3000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-26",
+        "symbol": "USDJPY=X",
+        "actual_price": 142.86700439453125,
+        "predicted_price": 143.975157995323,
+        "floating_pnl": 0.0,
+        "realized_pnl": -2348.9990234375,
+        "position_size": 2000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-27",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8780799788304693,
+        "predicted_price": 0.8800934233457818,
+        "floating_pnl": -1.2100490787813056,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-05-27",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7371800127617456,
+        "predicted_price": 0.7393883002678849,
+        "floating_pnl": -1.6000281658863358,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-05-27",
+        "symbol": "USDJPY=X",
+        "actual_price": 142.65499877929688,
+        "predicted_price": 142.98327745458965,
+        "floating_pnl": -212.005615234375,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-05-28",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8820599507036989,
+        "predicted_price": 0.8788805505835992,
+        "floating_pnl": 0.0,
+        "realized_pnl": 6.749894667677836,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-28",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7400100372245354,
+        "predicted_price": 0.7377859398796763,
+        "floating_pnl": 0.0,
+        "realized_pnl": 4.060020759693028,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-28",
+        "symbol": "USDJPY=X",
+        "actual_price": 144.177001953125,
+        "predicted_price": 142.77091261340593,
+        "floating_pnl": 0.0,
+        "realized_pnl": 2832.000732421875,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-29",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8901800350952556,
+        "predicted_price": 0.8828630920828069,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-29",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7445199915932496,
+        "predicted_price": 0.7406181104628647,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-29",
+        "symbol": "USDJPY=X",
+        "actual_price": 145.69700622558594,
+        "predicted_price": 144.29398128011076,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-30",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8788600038093746,
+        "predicted_price": 0.8909905509632657,
+        "floating_pnl": 0.0,
+        "realized_pnl": 11.320031285880994,
+        "position_size": -1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-30",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7407960030293782,
+        "predicted_price": 0.745131697491119,
+        "floating_pnl": 0.0,
+        "realized_pnl": 3.72398856387135,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-30",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.7790069580078,
+        "predicted_price": 145.81511425518065,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1917.999267578125,
+        "position_size": -1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-06-02",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.880800004115982,
+        "predicted_price": 0.8796603003600465,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1.940000306607459,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-06-02",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7425399967071429,
+        "predicted_price": 0.7414046478758903,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-06-02",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.81500244140625,
+        "predicted_price": 143.89552325730457,
+        "floating_pnl": 35.9954833984375,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-06-03",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8730999379257198,
+        "predicted_price": 0.8816025340159777,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-06-03",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7376399956912566,
+        "predicted_price": 0.7431502073205887,
+        "floating_pnl": 0.0,
+        "realized_pnl": 4.9000010158862795,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-06-03",
+        "symbol": "USDJPY=X",
+        "actual_price": 142.45199584960938,
+        "predicted_price": 143.93159583259313,
+        "floating_pnl": 0.0,
+        "realized_pnl": -2690.0177001953125,
+        "position_size": 2000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-06-04",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8783900198335474,
+        "predicted_price": 0.8738957405267753,
+        "floating_pnl": 0.0,
+        "realized_pnl": 5.290081907827537,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-06-04",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.739020009622069,
+        "predicted_price": 0.7382461152561612,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-06-04",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.83700561523438,
+        "predicted_price": 142.5674467177029,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1385.009765625,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-06-05",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8755000388769822,
+        "predicted_price": 0.8791926584497964,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-06-05",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7378899986735128,
+        "predicted_price": 0.7396285133762315,
+        "floating_pnl": 0.0,
+        "realized_pnl": 1.1300109485562482,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-06-05",
+        "symbol": "USDJPY=X",
+        "actual_price": 142.73199462890625,
+        "predicted_price": 143.95359981824714,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-06-06",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8730700415156971,
+        "predicted_price": 0.8763008646932097,
+        "floating_pnl": -2.42999736128513,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-06-06",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7364000163632587,
+        "predicted_price": 0.7384981304619302,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-06-06",
+        "symbol": "USDJPY=X",
+        "actual_price": 143.54200744628906,
+        "predicted_price": 142.847650073026,
+        "floating_pnl": 0.0,
+        "realized_pnl": 810.0128173828125,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-06-09",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8765900235443709,
+        "predicted_price": 0.8738686763371681,
+        "floating_pnl": 0.0,
+        "realized_pnl": 4.609966696062395,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-06-09",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7386500009906068,
+        "predicted_price": 0.7370069726921954,
+        "floating_pnl": 0.0,
+        "realized_pnl": 2.249984627348156,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-06-09",
+        "symbol": "USDJPY=X",
+        "actual_price": 144.6909942626953,
+        "predicted_price": 143.65814103099507,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-06-10",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8750400300754955,
+        "predicted_price": 0.8773918214543451,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-06-10",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7376399956912566,
+        "predicted_price": 0.7392593023521965,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-06-10",
+        "symbol": "USDJPY=X",
+        "actual_price": 144.5399932861328,
+        "predicted_price": 144.8080486090509,
+        "floating_pnl": 0.0,
+        "realized_pnl": 151.0009765625,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-06-11",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8743199835488003,
+        "predicted_price": 0.8758398886064475,
+        "floating_pnl": -0.7200465266952172,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-06-11",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7402900017967587,
+        "predicted_price": 0.7382487200260224,
+        "floating_pnl": 0.0,
+        "realized_pnl": 2.650006105502145,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-06-11",
+        "symbol": "USDJPY=X",
+        "actual_price": 144.83799743652344,
+        "predicted_price": 144.65695046437696,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-06-12",
+        "symbol": "USDEUR=X",
+        "actual_price": 0.8688600166819804,
+        "predicted_price": 0.87511960159498,
+        "floating_pnl": 0.0,
+        "realized_pnl": -11.639980260334859,
+        "position_size": 2000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-06-12",
+        "symbol": "USDGBP=X",
+        "actual_price": 0.7370599904719847,
+        "predicted_price": 0.7409023458253371,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-06-12",
+        "symbol": "USDJPY=X",
+        "actual_price": 144.2030029296875,
+        "predicted_price": 144.95527033781903,
+        "floating_pnl": 0.0,
+        "realized_pnl": 634.9945068359375,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-05",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030402896925807,
+        "predicted_price": 0.03034079459367215,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-02-06",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030467554926872253,
+        "predicted_price": 0.030428812151968472,
+        "floating_pnl": -0.06465800106525421,
+        "realized_pnl": 0.0,
+        "position_size": -1000.0,
+        "action": "ADD_SHORT"
+    },
+    {
+        "date": "2025-02-07",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030491521582007408,
+        "predicted_price": 0.030493545302800434,
+        "floating_pnl": 0.0,
+        "realized_pnl": -0.11259131133556366,
+        "position_size": -2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-10",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03046189434826374,
+        "predicted_price": 0.030517556390609178,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-11",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03042713738977909,
+        "predicted_price": 0.03048790797715927,
+        "floating_pnl": -0.03475695848464966,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-02-12",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030484739691019058,
+        "predicted_price": 0.030453168516868002,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.08044764399528503,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-13",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03043602593243122,
+        "predicted_price": 0.03051085558909742,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-14",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030660457909107208,
+        "predicted_price": 0.030462122028087266,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.22443197667598724,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-17",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030613336712121964,
+        "predicted_price": 0.030686774670883137,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-18",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030574869364500046,
+        "predicted_price": 0.03063961167297582,
+        "floating_pnl": -0.038467347621917725,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-02-19",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030561134219169617,
+        "predicted_price": 0.030601158219637502,
+        "floating_pnl": -0.06593763828277588,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-02-20",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030537893995642662,
+        "predicted_price": 0.03058745620244325,
+        "floating_pnl": -0.13565830886363983,
+        "realized_pnl": 0.0,
+        "position_size": 3000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-02-21",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03058730810880661,
+        "predicted_price": 0.030564225210286983,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.012584030628204346,
+        "position_size": 3000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-24",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030512923374772072,
+        "predicted_price": 0.030613693962367627,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-25",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030581321567296982,
+        "predicted_price": 0.03053921715956241,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.06839819252490997,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-02-26",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03050798736512661,
+        "predicted_price": 0.030607678069594857,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-02-27",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03053406998515129,
+        "predicted_price": 0.030534272303810863,
+        "floating_pnl": 0.02608262002468109,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-02-28",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.0303935669362545,
+        "predicted_price": 0.0305603481090447,
+        "floating_pnl": -0.11442042887210846,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-03-03",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03039051964879036,
+        "predicted_price": 0.03041969715604677,
+        "floating_pnl": -0.12051500380039215,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-03-04",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030405394732952118,
+        "predicted_price": 0.030416574050027186,
+        "floating_pnl": -0.07588975131511688,
+        "realized_pnl": 0.0,
+        "position_size": 3000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-03-05",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030492639169096947,
+        "predicted_price": 0.03043142215212907,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.1858435571193695,
+        "position_size": 3000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-06",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030486781150102615,
+        "predicted_price": 0.030518709309249027,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-07",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030434083193540573,
+        "predicted_price": 0.03051281704046299,
+        "floating_pnl": -0.052697956562042236,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-03-10",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030462728813290596,
+        "predicted_price": 0.03046005027866377,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.00459328293800354,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-11",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030426025390625,
+        "predicted_price": 0.030488656039506574,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-12",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03042398765683174,
+        "predicted_price": 0.03045190664477044,
+        "floating_pnl": -0.002037733793258667,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-03-13",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030389318242669106,
+        "predicted_price": 0.03044985160872793,
+        "floating_pnl": -0.07137656211853027,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-03-14",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03033207729458809,
+        "predicted_price": 0.030415146971261686,
+        "floating_pnl": -0.24309940636158336,
+        "realized_pnl": 0.0,
+        "position_size": 3000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-03-17",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030371136963367462,
+        "predicted_price": 0.030357870222565544,
+        "floating_pnl": 0.0,
+        "realized_pnl": -0.12592040002346386,
+        "position_size": 3000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-03-18",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03034311905503273,
+        "predicted_price": 0.03039692701135812,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-03-19",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03032214380800724,
+        "predicted_price": 0.0303689090408882,
+        "floating_pnl": -0.020975247025489807,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-03-20",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030300000682473183,
+        "predicted_price": 0.030347931398037636,
+        "floating_pnl": -0.06526149809360504,
+        "realized_pnl": 0.0,
+        "position_size": 2000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-03-21",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030314696952700615,
+        "predicted_price": 0.030325778196146878,
+        "floating_pnl": -0.02117268741130829,
+        "realized_pnl": 0.0,
+        "position_size": 3000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-03-24",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030326005071401596,
+        "predicted_price": 0.03034050330154691,
+        "floating_pnl": 0.012751668691635132,
+        "realized_pnl": 0.0,
+        "position_size": 3000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-03-25",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030292658135294914,
+        "predicted_price": 0.030351791945434598,
+        "floating_pnl": -0.08728913962841034,
+        "realized_pnl": 0.0,
+        "position_size": 3000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-03-26",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030261490494012833,
+        "predicted_price": 0.03031844714882855,
+        "floating_pnl": -0.18079206347465515,
+        "realized_pnl": 0.0,
+        "position_size": 3000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-03-27",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030221980065107346,
+        "predicted_price": 0.030287256598260277,
+        "floating_pnl": -0.29932335019111633,
+        "realized_pnl": 0.0,
+        "position_size": 3000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-03-28",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030201077461242676,
+        "predicted_price": 0.030247711218332193,
+        "floating_pnl": -0.36203116178512573,
+        "realized_pnl": 0.0,
+        "position_size": 3000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-03-31",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03013337217271328,
+        "predicted_price": 0.030226799150545713,
+        "floating_pnl": 0.0,
+        "realized_pnl": -0.5651470273733139,
+        "position_size": 3000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-01",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03008504956960678,
+        "predicted_price": 0.0301590554388394,
+        "floating_pnl": -0.04832260310649872,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-04-02",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030117308720946312,
+        "predicted_price": 0.030110673267399215,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.01619569957256317,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-03",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03006388433277607,
+        "predicted_price": 0.0301429469666075,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-04",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030274497345089912,
+        "predicted_price": 0.030089460593806145,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.21061301231384277,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-07",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03015454299747944,
+        "predicted_price": 0.0303002455145457,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-08",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030321316793560982,
+        "predicted_price": 0.030180235931869547,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.16677379608154297,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-09",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030229106545448303,
+        "predicted_price": 0.030347201244088733,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-10",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030686046928167343,
+        "predicted_price": 0.030254940427614157,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.4569403827190399,
+        "position_size": 1000.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-11",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030500544235110283,
+        "predicted_price": 0.030712305607964143,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.18550269305706024,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-14",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030900439247488976,
+        "predicted_price": 0.030526663622678293,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-15",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030905405059456825,
+        "predicted_price": 0.030926921336843074,
+        "floating_pnl": 0.0,
+        "realized_pnl": -0.0049658119678497314,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-16",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030765442177653313,
+        "predicted_price": 0.03093190111273033,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-17",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030884405598044395,
+        "predicted_price": 0.030791799252656432,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.11896342039108276,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-22",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030825568363070488,
+        "predicted_price": 0.03091084939019693,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-04-23",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030699707567691803,
+        "predicted_price": 0.030851928820827067,
+        "floating_pnl": -0.125860795378685,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-04-24",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030738210305571556,
+        "predicted_price": 0.03072598773809005,
+        "floating_pnl": 0.0,
+        "realized_pnl": -0.04885531961917877,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-25",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030830321833491325,
+        "predicted_price": 0.03076453218893854,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-28",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03075125254690647,
+        "predicted_price": 0.03085669315260022,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.07906928658485413,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-04-29",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.030839545652270317,
+        "predicted_price": 0.03077751694879582,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-04-30",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03093896619975567,
+        "predicted_price": 0.03086582591712326,
+        "floating_pnl": -0.09942054748535156,
+        "realized_pnl": 0.0,
+        "position_size": -1000.0,
+        "action": "ADD_SHORT"
+    },
+    {
+        "date": "2025-05-01",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03121878020465374,
+        "predicted_price": 0.030965341150720253,
+        "floating_pnl": 0.0,
+        "realized_pnl": -0.6590485572814941,
+        "position_size": -2000.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-02",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03114139474928379,
+        "predicted_price": 0.03124539376512405,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.07738545536994934,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-05",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03256872668862343,
+        "predicted_price": 0.031167940931938736,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-06",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03429355472326279,
+        "predicted_price": 0.032596510852350505,
+        "floating_pnl": 0.0,
+        "realized_pnl": -1.7248280346393585,
+        "position_size": -1000.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-07",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.033358242362737656,
+        "predicted_price": 0.03432280062473271,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.9353123605251312,
+        "position_size": -1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-08",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03290480375289917,
+        "predicted_price": 0.03338672888097905,
+        "floating_pnl": 0.0,
+        "realized_pnl": -0.4534386098384857,
+        "position_size": 1000.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-09",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03303709998726845,
+        "predicted_price": 0.03293290443408189,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.13229623436927795,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-12",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.033061783760786057,
+        "predicted_price": 0.03306531817613784,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-05-13",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.032902203500270844,
+        "predicted_price": 0.033090024604656106,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-05-14",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.032867707312107086,
+        "predicted_price": 0.03293029495303461,
+        "floating_pnl": -0.034496188163757324,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-05-15",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.032960113137960434,
+        "predicted_price": 0.03289581221904358,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.15031546354293823,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-16",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03314880654215813,
+        "predicted_price": 0.03298831022505987,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-19",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03310973197221756,
+        "predicted_price": 0.03317716210398615,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.03907456994056702,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-20",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.0331721156835556,
+        "predicted_price": 0.033138036147766815,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-21",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03317156806588173,
+        "predicted_price": 0.03320043085849324,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0005476176738739014,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-22",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03330879658460617,
+        "predicted_price": 0.03319989665637512,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-23",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03328130394220352,
+        "predicted_price": 0.03333724626503967,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.027492642402648926,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-26",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03336502984166145,
+        "predicted_price": 0.033309721563034606,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-05-27",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.033428046852350235,
+        "predicted_price": 0.03339351074237096,
+        "floating_pnl": -0.06301701068878174,
+        "realized_pnl": 0.0,
+        "position_size": -1000.0,
+        "action": "ADD_SHORT"
+    },
+    {
+        "date": "2025-05-28",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03337249159812927,
+        "predicted_price": 0.03345654080514837,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.04809349775314331,
+        "position_size": -2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-05-29",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.033388979732990265,
+        "predicted_price": 0.033400960966185445,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-05-30",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03350072726607323,
+        "predicted_price": 0.03341748320958219,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_SHORT"
+    },
+    {
+        "date": "2025-06-02",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.033477284014225006,
+        "predicted_price": 0.03352932378159713,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.023443251848220825,
+        "position_size": -1000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-06-03",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03334745019674301,
+        "predicted_price": 0.033505878305103244,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-06-04",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03337126597762108,
+        "predicted_price": 0.03337590176159529,
+        "floating_pnl": 0.023815780878067017,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-06-05",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03339790180325508,
+        "predicted_price": 0.03339977682195492,
+        "floating_pnl": 0.0504516065120697,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-06-06",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.0333942249417305,
+        "predicted_price": 0.03342645448717106,
+        "floating_pnl": 0.04677474498748779,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "ADD_LONG"
+    },
+    {
+        "date": "2025-06-09",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03342502936720848,
+        "predicted_price": 0.03342275344010232,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.10838359594345093,
+        "position_size": 2000.0,
+        "action": "CLOSE"
+    },
+    {
+        "date": "2025-06-10",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03342938795685768,
+        "predicted_price": 0.03345356679654048,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.0,
+        "position_size": 0.0,
+        "action": "OPEN_LONG"
+    },
+    {
+        "date": "2025-06-11",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.033457234501838684,
+        "predicted_price": 0.03345785662906979,
+        "floating_pnl": 0.027846544981002808,
+        "realized_pnl": 0.0,
+        "position_size": 1000.0,
+        "action": "HOLD"
+    },
+    {
+        "date": "2025-06-12",
+        "symbol": "TWDUSD=X",
+        "actual_price": 0.03354860097169876,
+        "predicted_price": 0.03348575985197198,
+        "floating_pnl": 0.0,
+        "realized_pnl": 0.11921301484107971,
+        "position_size": 1000.0,
+        "action": "CLOSE"
+    }
+]
