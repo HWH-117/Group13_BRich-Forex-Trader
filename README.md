@@ -80,7 +80,7 @@ requirements.txt content
 
 * **(Optional) Re-train the AI Model:** To train the model from scratch, run the training script. This will overwrite the existing best-model.ckpt.
 
-* The GUI provides the easiest way to interact with the project. You can perform all operations from the web interface.
+The GUI provides the easiest way to interact with the project. You can perform all operations from the web interface.
 
 Launch the Application:
 In your terminal, run the following command:
