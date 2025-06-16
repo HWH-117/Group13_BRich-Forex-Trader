@@ -115,12 +115,6 @@ Usage: Can be directly loaded and displayed in the GUI for a quick visual summar
 
 
 
-##  Author
-
-**HWH**  
-Master Student in International Master Program on Intelligent Manufacturing, NCKU  
-Email: [Megamind11129@gamil.com]
-
 
 
 
