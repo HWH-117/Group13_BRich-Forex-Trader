@@ -78,7 +78,7 @@ requirements.txt content
 
 * **A) Run Simulation with Pre-trained Model:** This uses the included **best-model.ckpt** to generate the latest results.
 
-* **B) Run in TA Evaluation Mode (with external Excel files):** Place the TA-provided **fx_data.xlsx** and **fake_fx_data.xlsx** in the project's root folder. The script will automatically detect them and run in TA mode.
+* **B) Run in TA Evaluation Mode (with external Excel files):** **Step 6**Place the TA-provided **fx_data.xlsx** and **fake_fx_data.xlsx** in the project's root folder. The script will automatically detect them and run in TA mode.
 
 * **(Optional) Re-train the AI Model:** To train the model from scratch, run the training script. This will overwrite the existing best-model.ckpt.
 
